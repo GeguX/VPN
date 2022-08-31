@@ -25,7 +25,7 @@
 
 **北京时间2022年8月30日6点30分维护节点，都正常。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。节点限速500kb/s，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的付费节点。**
 
-备用网址：https://tr2.freeair888.club/ss免费账号/ （记得前面加https） 
+备用网址：https://tr3.freeair888.club/ss免费账号/ （记得前面加https） 
 
 github镜像网站：https://hub.fastgit.xyz/Alvin9999/new-pac/wiki/ss免费账号
 
