@@ -1,6 +1,6 @@
 **2022年7月12日更新教程。**
 
-**如果无法查看图片，可以访问https://tr2.freeair888.club/自建wireguard服务器教程/**
+**如果无法查看图片，可以访问https://tr3.freeair888.club/自建wireguard服务器教程/**
 
 ***
 
