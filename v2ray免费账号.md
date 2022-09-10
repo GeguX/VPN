@@ -25,7 +25,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://tr601.free4444.xyz/fg797p.zip) [下载地址2](https://tr201.free4444.xyz/fg797p.zip) 无界21.32版[下载地址1](https://tr601.free4444.xyz/u2132.exe) [下载地址2](https://tr201.free4444.xyz/u2132.exe)**
 
 
-**北京时间2022年9月8日9点30分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。节点单用户限速350kb/s，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的[付费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
+**北京时间2022年9月11日7点30分更新。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。节点单用户限速350kb/s，如果不能满足自己需求，可以考虑根据教程自己搭建节点或者购买推荐的[付费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
 
 备用网址：https://tr3.freeair888.club/v2ray免费账号/ （记得前面加https） 
@@ -36,11 +36,11 @@
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
 
-Address(地址): 172.67.167.120
+Address(地址): 172.67.39.147
 
 Port（端口）: 443
 
-UUID（用户id）: f5e74e66-0241-447c-83a4-a4005f438536
+UUID（用户id）: 11918e9d-e8e1-4500-8a46-9b01a8fed2af
 
 alterId（额外ID）: 0
 
@@ -50,13 +50,13 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）: m4.v2rayfree1.xyz
+伪装域名（host）: m7.v2rayfree1.xyz
 
 路径（不要落下/）：/ray
 
 底层传输安全：tls
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf576O5Zu9IiwNCiAgImFkZCI6ICIxNzIuNjcuMTY3LjEyMCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJmNWU3NGU2Ni0wMjQxLTQ0N2MtODNhNC1hNDAwNWY0Mzg1MzYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIm00LnYycmF5ZnJlZTEueHl6IiwNCiAgInBhdGgiOiAiL3JheSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkvbmV3LXBhYy93aWtpIGdf576O5Zu9IiwNCiAgImFkZCI6ICIxNzIuNjcuMzkuMTQ3IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjExOTE4ZTlkLWU4ZTEtNDUwMC04YTQ2LTliMDFhOGZlZDJhZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibTcudjJyYXlmcmVlMS54eXoiLA0KICAicGF0aCI6ICIvcmF5IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
 
 
