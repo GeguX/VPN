@@ -199,6 +199,10 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 > systemctl restart v2ray
 
+如果以上命令还是无法启动，将服务器的v2ray版本退回到指定版本，输入命令：
+
+> v2ray update v4.45.2
+
 ***
 
 **如果选择的是CentOS系统，还需要关闭vps防火墙来开放端口，相关命令如下：**
