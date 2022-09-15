@@ -101,7 +101,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-firewall.png)
 
-### 点击服务器的设置setting——防火墙——firewall——选择no firewall——点击更新update the firewallgroup
+### 点击服务器的设置Settings——防火墙Firewall——选择No Firewall——点击更新Update FirewallGroup
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-firewall2.png)
 
