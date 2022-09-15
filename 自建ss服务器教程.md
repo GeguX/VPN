@@ -95,6 +95,13 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/crp_up/pac教程06.png)
 
+**vultr更新了规则，开通服务器后必须手动关闭防火墙，不然无法用SSH工具去链接服务器，也就是默认的22端口是关闭的。关闭防火墙方法**：
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-firewall.png)
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/vultr/vultr-firewall2.png)
+
+
 **删掉服务器步骤如下图**：
 
 删除服务器时，先开新的服务器后再删除旧服务器，这样可以保证新服务器的ip与旧ip不同。
