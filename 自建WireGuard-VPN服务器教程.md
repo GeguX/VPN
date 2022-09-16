@@ -5,9 +5,7 @@
 ***
 
 
-**wireguard简介**： Wireguard是一种新型的VPN协议，相比目前主流的VPN协议，WireGuard具有轻便、快速、高效、安全的优点，被称为下一代VPN协议。WireGuard最初是为Linux内核开发，但目前已提供跨平台支持，可在Linux、安卓、苹果iOS、MacOS、Openwrt、Windows等多个平台使用 。
-
-wireguard可以全局代理电脑所有软件，包括浏览器、游戏软件等。
+**wireguard简介**： Wireguard是一种新型的VPN协议，wireguard可以全局代理电脑所有软件，包括浏览器、游戏软件等。
 
 **注意**：如果你当地运营商对海外 UDP 链接进行 QOS 限速，那么速度可能不如使用 TCP 链接的代理软件理想。
 
