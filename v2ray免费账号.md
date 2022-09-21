@@ -80,7 +80,7 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）:test.v2rayfree1.xyz
+伪装域名（host）: test.v2rayfree1.xyz
 
 路径（不要落下/）：/dongtaiwang.com
 
