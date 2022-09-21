@@ -64,7 +64,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0aHViLmNvbS9BbHZpbjk5OTkv
 
 **v2ray节点2：**
 
-（节点不限速，流量1T用完即停止，服务器为[Vultr洛杉矶](https://www.vultr.com/?ref=7048874)）
+（节点不限速，流量2T用完即停止，服务器为[Vultr洛杉矶](https://www.vultr.com/?ref=7048874)）
 
 Address(地址): test.v2rayfree1.xyz
 
