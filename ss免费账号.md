@@ -84,7 +84,7 @@ ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjExMDAxOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aW
 <tbody>
 <tr>
 <tr>
-<td>[Vultr洛杉矶](https://www.vultr.com/?ref=7048874)</td>
+<td>Vultr洛杉矶</td>
 <td>vultr.free4444.xyz</td>
 <td>12345</td>
 <td>dongtaiwang.com</td>
