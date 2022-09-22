@@ -67,7 +67,7 @@ ssr://c3NyZnJlZTMuZnJlZTQ0NDQueHl6OjExMDAxOmF1dGhfY2hhaW5fYTpub25lOnRsczEuMl90aW
 
 **SSR节点2：**
 
-（节点不限速，流量2T用完即停止，服务器为[Vultr洛杉矶](https://www.vultr.com/?ref=7048874)）
+（节点不限速，服务器为[Vultr洛杉矶](https://www.vultr.com/?ref=7048874)）
 
 <table id="tablepress-1">
 <thead>
