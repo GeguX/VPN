@@ -94,7 +94,7 @@ VPS推荐：
 
 **注意**：第一次使用v2ray时，需要安装最新版NET Framework ，不然无法正常运行，[微软官网](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)下载。
 
-windows客户端[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 
+windows客户端[v2rayN](https://github.com/2dust/v2rayN/releases/latest) (下载带core的文件)
 
 Mac客户端[v2rayX](https://github.com/insisttech/v2rayX-copy/releases) 或 [v2rayU](https://github.com/yanue/V2rayU/releases)
 
