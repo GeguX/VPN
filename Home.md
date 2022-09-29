@@ -39,7 +39,7 @@
 
 ***
 
-[谷歌翻墙浏览器106高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2022年9月28日更新所有版本）
+[谷歌翻墙浏览器106高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2022年9月29日更新所有版本）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2022年9月27日更新集合版）
 
