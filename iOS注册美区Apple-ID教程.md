@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p><strong>2021年12月26日更新注册美区ID图文教程。 </strong></p>
+<p><strong>2022年9月29日更新。 </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
