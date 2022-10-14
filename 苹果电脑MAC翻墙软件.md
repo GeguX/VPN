@@ -1,4 +1,4 @@
-**2020年11月1日增加Mac使用Wine运行Windows软件教程。**
+**2022年10月14日增加神盾VPN Mac版。**
 
 ***
 
@@ -13,6 +13,7 @@
 STEP1，下载用于MAC OS X的SHADOWSOCKSX软件 
 
 **SSR客户端下载地址：** [下载地址](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
+
 ***
 
 以SS客户端为例：
@@ -47,7 +48,67 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 
 使用方法参考[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-### 第三种方法：Mac使用Wine运行Windows软件
+### 第三种方法：Mac使用神盾VPN Mac版(付费)
+
+免费试用，有限速。
+
+官方下载: https://tipasvpn.com/zh-HK/Download/
+
+[国外云盘下载1](https://d2.freessr2.xyz/tipas.dmg) [国外云盘下载2](https://d1.freessr1.xyz/tipas.dmg)
+
+有两个网站可以购买服务：
+
+信用卡或者 PayPal 支付：https://tipas-technologies.myshopify.com/zh-cn
+
+支付宝支付：https://diamission.com/
+
+8折优惠码 TYZH 可以在两个网站上使用，大小写没有关系。
+
+官网：https://tipas.net/zh-HK/
+
+镜像站：https://tipasvpn.com/zh-HK/product/
+
+图文教程:
+
+第一步：如图点击“前往”，再点击"应用程序"。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac1.png)
+
+第二步：如图双击dmg文件打开，将Tipas拖拽到“应用程序”窗口里面。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac2.png)
+
+第三步：右键单击“应用程序”中的Tipas，选择“打开”，系统弹出“Tipas是从互联网下载的App。您確定要打开它吗？”。点击“打开”。
+
+第四步：如图点击“打开安全性偏好设置"。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac3.png)
+
+第五步：如图点击。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac4.png)
+
+第六步：如图点击。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac5.png)
+
+第七步：如图点击。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac6.png)
+
+第八步：如图点击。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac7.png)
+
+第九步：如图。
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac8.png)
+
+第十步：
+
+点击第九步图里的右上角圆标设置账号密码和刷新中继器。(需要购买服务后设置帐号密码，然后刷新中继器。)
+
+### 第四种方法：Mac使用Wine运行Windows软件
 
 图文教程可参考：
 
