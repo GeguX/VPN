@@ -7,7 +7,7 @@
 
 **价格**
 
-试用套餐5元（5天）、月付A套餐20元、月付B套餐39元、月付C套餐58元、年付套餐168元、年付套餐218元等，[套餐购买](https://we.gofly.cyou/auth/register?code=UsUP)
+试用套餐5元（5天）、月付套餐A 20元、月付套餐B 39元、月付套餐C 58元、年付套餐A 168元、年付套餐B 218元等，[套餐购买](https://we.gofly.cyou/auth/register?code=UsUP)
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free001.png)
 
