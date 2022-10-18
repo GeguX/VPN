@@ -88,7 +88,7 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <td>141.101.114.100</td>
 <td>443</td>
 <td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
+<td>chacha20-ietf-poly1305</td>
 <td>v2ray-plugin</td>
 <td>tls;host=ss.cfcdn4.xyz;path=/6ecd</td>
 </tr>
