@@ -23,7 +23,7 @@
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://d2.freessr2.xyz/fg797p.zip) [下载地址2](https://d1.freessr1.xyz/fg797p.zip) 无界21.32版[下载地址1](https://d2.freessr2.xyz/u2132.exe) [下载地址2](https://d1.freessr1.xyz/u2132.exe)**
 
 
-**北京时间2022年10月18日0点30分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2022年10月18日9点30分更新SSR节点的加密方式。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://tr3.freeair888.club/ss免费账号/ （记得前面加https） 
 
@@ -52,7 +52,7 @@
 <td>ssr.zhujicn2.net</td>
 <td>30044</td>
 <td>dongtaiwang.com</td>
-<td>none</td>
+<td>aes-256-cfb</td>
 <td>auth_chain_a</td>
 <td>tls1.2_ticket_auth</td>
 </tr>
@@ -61,7 +61,7 @@
 
 **SSR节点链接：**
 
-ssr://c3NyLnpodWppY24yLm5ldDozMDA0NDphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk1WTlRVZw
+ssr://c3NyLnpodWppY24yLm5ldDozMDA0NDphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2c1clNiNXAySjU1LTJNVk5UVWc
 
 **SS-Websocket节点：**
 
