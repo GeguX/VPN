@@ -68,6 +68,8 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 
 镜像站：https://tipasvpn.com/zh-HK/product/
 
+有问题联系官方客服邮箱：support@tipas.net
+
 图文教程:
 
 第一步：如图点击“前往”，再点击"应用程序"。
