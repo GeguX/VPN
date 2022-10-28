@@ -20,8 +20,7 @@
 
 ***
 
-**windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.97版[下载地址1](https://d2.freessr2.xyz/fg797p.zip) [下载地址2](https://d1.freessr1.xyz/fg797p.zip) 无界21.32版[下载地址1](https://d2.freessr2.xyz/u2132.exe) [下载地址2](https://d1.freessr1.xyz/u2132.exe)**
-
+**windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.98版[下载地址1](https://d2.freessr2.xyz/fg798p.zip) [下载地址2](https://d1.freessr1.xyz/fg798p.zip) 无界21.32版[下载地址1](https://d2.freessr2.xyz/u2132.exe) [下载地址2](https://d1.freessr1.xyz/u2132.exe)**
 
 **北京时间2022年10月28日9点00分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据教程自己搭建节点，或者购买推荐的付费节点。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
