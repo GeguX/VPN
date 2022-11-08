@@ -85,19 +85,19 @@ windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：[下�
 <tr>
 <tr>
 <td>洛杉矶2</td>
-<td>149.28.83.136</td>
-<td>11432</td>
+<td>144.202.117.41</td>
+<td>16577</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 <td>v2ray-plugin</td>
-<td>host=cloudfront.com;path=/H6zVm;mux=8</td>
+<td>host=cloudfront.com;path=/kmiWK;mux=8</td>
 </tr>
 </tbody>
 </table>
 
 **SS链接：**
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@149.28.83.136:11432/?plugin=v2ray-plugin%3bhost%3dcloudfront.com%3bpath%3d%2fH6zVm%3bmux%3d8#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@144.202.117.41:16577/?plugin=v2ray-plugin%3bhost%3dcloudfront.com%3bpath%3d%2fkmiWK%3bmux%3d8#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b6SS
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr账号-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
