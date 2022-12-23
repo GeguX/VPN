@@ -27,6 +27,8 @@
 
 备用网址：https://tr3.freeair888.club/ss免费账号/ （记得前面加https） 
 
+备用网址：https://a1.trump2023.org/Alvin9999/new-pac/wiki/ss免费账号
+
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub)
 
 ***
