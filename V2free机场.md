@@ -1,4 +1,4 @@
-[we.gofly.cyou](https://we.gofly.cyou/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。
+[w1.v2free.cyou](https://w1.v2free.cyou/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。
 
 ***
 
@@ -7,7 +7,7 @@
 
 **价格**
 
-试用套餐5元（5天）、月付套餐A 20元、月付套餐B 39元、月付套餐C 58元、年付套餐A 168元、年付套餐A2 218元等，[套餐购买](https://we.gofly.cyou/auth/register?code=UsUP)
+试用套餐5元（5天）、月付套餐A 20元、月付套餐B 39元、月付套餐C 58元、年付套餐A 168元、年付套餐A2 218元等，[套餐购买](https://w1.v2free.cyou/auth/register?code=UsUP)
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free001.png)
 
