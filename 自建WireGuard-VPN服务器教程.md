@@ -203,7 +203,7 @@ sz /etc/wireguard/client.conf
 
 PC端：
 
-TunSafe 官网下载：https://tunsafe.com/download ，下载TunSafe-1.4.exe 文件大小：401k [国外网盘下载](https://d1.freessr1.xyz/TunSafe-1.4.exe)
+TunSafe 官网下载：https://tunsafe.com/download ，下载TunSafe-1.4.exe 文件大小：401k [国外网盘下载](https://d.ssrfree4.xyz/TunSafe-1.4.exe)
 
 下载后双击安装。
 
