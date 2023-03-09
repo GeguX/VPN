@@ -28,6 +28,8 @@
 
 **近期重要更新提醒**：
 
+**北京时间2023年3月10日：更新集合版clash工具的ip1、ip2、ip3、ip4、ip5、ip6配置，SS-plugin工具的ip1配置，v2ray工具的ip4配置，按照使用说明运行ip更新即可同步到云端。**
+
 **北京时间2023年2月13日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)、[谷歌低内核](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88)、[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)集合版，增加naiveproxy工具。**
 
 **北京时间2023年2月12日提醒：谷歌官方Chrome 110是第一个不再支持Windows7和8.1的Chrome浏览器版本，如需使用最新版本 Chrome 浏览器，需要将系统最低升级至 Windows 10。目前谷歌翻墙浏览器高内核版本是Chrome 109，win7和win8.1不影响使用。**
