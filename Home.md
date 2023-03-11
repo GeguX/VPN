@@ -28,7 +28,7 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年3月12日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)版。由于谷歌官方从Chrome110开始不再支持Windows7和8.1系统，所以高内核版分两种，Chrome111支持win10、win11系统，Chrome109支持win7、win8.1系统。**
+**北京时间2023年3月12日：更新[谷歌高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)。由于谷歌官方从Chrome110开始不再支持Windows7和8.1系统，所以高内核版分两种，Chrome111支持win10、win11系统，Chrome109支持win7、win8.1系统。**
 
 **北京时间2023年3月10日：更新集合版clash工具的ip1、ip2、ip3、ip4、ip5、ip6配置，SS-plugin工具的ip1、ip2配置，v2ray工具的ip4配置，hysteria工具的ip1配置，按照使用说明运行ip更新即可同步到云端。**
 
