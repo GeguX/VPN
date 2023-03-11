@@ -28,6 +28,8 @@
 
 **近期重要更新提醒**：
 
+**北京时间2023年3月12日：更新谷歌高内核版。**
+
 **北京时间2023年3月10日：更新集合版clash工具的ip1、ip2、ip3、ip4、ip5、ip6配置，SS-plugin工具的ip1、ip2配置，v2ray工具的ip4配置，hysteria工具的ip1配置，按照使用说明运行ip更新即可同步到云端。**
 
 **北京时间2023年2月13日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)、[谷歌低内核](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88)、[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)集合版，增加naiveproxy工具。**
@@ -54,7 +56,7 @@
 
 ***
 
-[谷歌翻墙浏览器109高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年2月13日更新集合版）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年3月12日更新）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年2月13日更新集合版）
 
