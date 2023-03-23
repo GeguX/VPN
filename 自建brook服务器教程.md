@@ -159,12 +159,6 @@ setsid brook server --listen :9999 --password hello
 
 > 第一条命令是下载v20230401版本，第二条命令给brook赋予权限，最后一条命令的意思是启动brook并增加守护进程，这样当ssh窗口关闭时，brook仍然是运行的，端口设置为9999，密码设置为hello，端口和密码可以改成自己的
 
-**方法二修改brook端口号和密码方法**：
-
-关闭brook进程命令：killall brook
-
-运行第三条命令：setsid brook server --listen :新端口 --password 新密码
-
 ***
 
 复制上面的**脚本一代码**到VPS服务器里，复制代码用鼠标右键的复制，然后在vps里面右键粘贴进去，因为ctrl+c和ctrl+v无效。接着按回车键，脚本会自动安装。以后只需要运行这个快捷命令就可以出现下图的界面进行设置，快捷管理命令为：bash brook.sh 或 ./brook.sh
