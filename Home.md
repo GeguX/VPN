@@ -28,6 +28,8 @@
 
 **近期重要更新提醒**：
 
+**北京时间2023年2月13日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)、[谷歌低内核](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88)、[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)集合版。**
+
 **北京时间2023年3月28日：更新集合版clash工具的ip2、ip5配置，v2ray工具的ip3配置，按照使用说明运行ip更新即可同步到云端。**
 
 **北京时间2023年3月16日：[安卓版](https://github.com/Alvin9999/new-pac/wiki/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E7%89%88)增加网必通app。网必通是一款可以突破中国网络封锁的加密影音视频软件（安卓版）,目前主要针对中国大陆国内的用户。安装完毕后，就可以非常安全的观看被封禁的海外的影音视频信息。 [下载1](https://d2.freessr2.xyz/wbt1.apk) [下载2](https://d.ssrfree4.xyz/wbt1.apk) [下载3](https://tools20180929.s3.amazonaws.com/wbtdownloads/wbt1.apk)**
@@ -36,7 +38,7 @@
 
 **北京时间2023年3月10日：更新集合版clash工具的ip1、ip2、ip3、ip4、ip5、ip6配置，SS-plugin工具的ip1、ip2配置，v2ray工具的ip4配置，hysteria工具的ip1配置，按照使用说明运行ip更新即可同步到云端。**
 
-**北京时间2023年2月13日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)、[谷歌低内核](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88)、[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)集合版，增加naiveproxy工具。**
+> 北京时间2023年2月13日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)、[谷歌低内核](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88)、[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)集合版，增加naiveproxy工具。
 
 > 北京时间2023年2月12日提醒：谷歌官方Chrome 110是第一个不再支持Windows7和8.1的Chrome浏览器版本，如需使用最新版本 Chrome 浏览器，需要将系统最低升级至 Windows 10。目前谷歌翻墙浏览器高内核版本是Chrome 109，win7和win8.1不影响使用。
 
@@ -53,11 +55,11 @@
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年3月12日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年4月5日更新集合版）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年2月13日更新集合版）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年4月5日更新集合版）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年2月13日更新集合版）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年4月5日更新集合版）
 
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub) （2022年6月7日发布）
 
