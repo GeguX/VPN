@@ -53,7 +53,7 @@ network（传输协议）: ws
 
 headerType（伪装类型）: none
 
-伪装域名（host）: 不填
+伪装域名（host）: fr1.v2ray6.xyz
 
 路径（不要落下/）：不填
 
