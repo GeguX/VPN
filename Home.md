@@ -28,6 +28,8 @@
 
 **近期重要更新提醒**：
 
+**北京时间2023年4月18日：最近封锁加重，部分工具被封的厉害，会持续更新，可以优先选择clash、hysteria、singbox、naiveproxy工具。**
+
 **北京时间2023年4月16日-17日：更新集合版clash工具的ip1、ip2、ip3、ip4、ip5、ip6配置，v2ray工具的ip1、ip2、ip3、ip4配置，SSR工具的p1、ip2配置，SS-plugin工具的ip1、ip2配置，按照使用说明运行ip更新即可同步到云端。**
 
 **北京时间2023年4月13日：更新集合版v2ray工具的ip1、ip4配置，SSR工具的ip1、ip2配置，SS-plugin工具的ip2，按照使用说明运行ip更新即可同步到云端。**
