@@ -28,7 +28,9 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年4月18日：最近封锁加重，部分工具被封的厉害，可以优先选择clash、hysteria、singbox、naiveproxy工具。会持续更新。**
+**北京时间2023年4月21日：更新Chrome109和Chrome112集合版，增加Xray工具。**
+
+**北京时间2023年4月18日-21日：最近封锁加重，部分工具被封的厉害，可以优先选择clash、Xray、hysteria、singbox、naiveproxy工具。会持续更新。**
 
 **北京时间2023年4月16日-17日：更新集合版clash工具的ip1、ip2、ip3、ip4、ip5、ip6配置，v2ray工具的ip1、ip2、ip3、ip4配置，SSR工具的p1、ip2配置，SS-plugin工具的ip1、ip2配置，按照使用说明运行ip更新即可同步到云端。**
 
@@ -65,7 +67,7 @@
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年4月6日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年4月21日更新集合版）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年4月5日更新集合版）
 
