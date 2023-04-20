@@ -28,7 +28,7 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年4月21日：更新Chrome109和Chrome112集合版，增加Xray工具。**
+**北京时间2023年4月21日：更新Chrome109和Chrome112集合版，增加Xray工具，hysteria工具增加2个ip地址。**
 
 **北京时间2023年4月18日-21日：最近封锁加重，部分工具被封的厉害，可以优先选择clash、Xray、hysteria、singbox、naiveproxy工具。会持续更新。**
 
