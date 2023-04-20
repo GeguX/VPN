@@ -8,11 +8,11 @@
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：clash、v2ray、SSR、SS-plugin、hysteria、singbox、naiveproxy、FreeGate、无界，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：clash、Xray、hysteria、singbox、naiveproxy、SSR、SS-plugin、FreeGate、无界，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系！可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，它们都是免费的，而且不会干扰电脑运行。
 
-**选择指南**：集合版(clash、v2ray、SSR、SS-plugin、hysteria、singbox、naiveproxy)、FreeGate版、无界版可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。
+**选择指南**：集合版(clash、Xray、hysteria、singbox、naiveproxy、SSR、SS-plugin)、FreeGate版、无界版可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。
 
 **YouTube频道推荐**： [文昭谈古论今](https://www.youtube.com/@wenzhaoofficial/videos)  [天亮时分](https://www.youtube.com/@TianLiangTimes/streams)  [江峰时刻](https://www.youtube.com/@JiangFengTimes/videos)    [Leonard](https://www.youtube.com/channel/UC1mx_wcSHtfpLk5N_zY0TRg/videos)  [探索时分周子定](https://www.youtube.com/c/%E6%8E%A2%E7%B4%A2%E6%99%82%E5%88%86-%E5%91%A8%E5%AD%90%E5%AE%9A/videos) [文昭思绪飞扬](https://www.youtube.com/channel/UCTu_hTaVf3DJMpMIyOAq2Ew/videos) [未解之谜扶搖](https://www.youtube.com/c/%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%AC%8E%E6%89%B6%E6%90%96/videos)
 
