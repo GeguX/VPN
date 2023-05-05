@@ -359,7 +359,7 @@ service ntpd start
 
 备用：wget -P /root -N --no-check-certificate "https://www.v2ray-agent.com/v2ray-agent/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 
-
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/8and1-1.jpg)
 
 ***
 
