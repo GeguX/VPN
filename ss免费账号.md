@@ -84,7 +84,7 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjU1NTU1OmF1dGhfYWVzMTI4X3NoYTE6YWVzLTI1Ni1jZmI6aH
 <td>185.199.224.245</td>
 <td>41111</td>
 <td>dongtaiwang.com</td>
-<td>chacha20-ietf-poly1305</td>
+<td>aes-256-gcm</td>
 </tr>
 </tbody>
 </table>
