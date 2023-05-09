@@ -27,9 +27,9 @@
 **北京时间2023年5月6日18点30分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
-备用网址：https://tr4.freeair888.club/v2ray免费账号/ （记得前面加https） 
+备用网址：https://a1.freegithub.site/Alvin9999/new-pac/wiki/v2ray免费账号
 
-备用网址：https://a1.trump2023.org/Alvin9999/new-pac/wiki/v2ray免费账号
+备用网址：https://tr4.freeair888.club/v2ray免费账号/ （记得前面加https） 
 
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub)
 
