@@ -20,8 +20,6 @@
 
 备用网址：https://a1.freegithub.site/Alvin9999/new-pac/wiki
 
-备用网址：https://tr4.freeair888.club （记得前面加https） 
-
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub)
 
 ***
