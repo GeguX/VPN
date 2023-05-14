@@ -1,4 +1,4 @@
-**2022年9月29日更新。**
+**2023年5月14日更新，增加安装脚本。**
 
 **如果无法查看图片，可以访问https://a1.freegithub.site/Alvin9999/new-pac/wiki/自建wireguard服务器教程/**
 
@@ -67,7 +67,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/new4.PNG)
 
-**点击图中的系统名字，会弹出具体系统版本， 搭建脚本支持CentOS7+/Ubuntu18.04+/Debian9+**
+**点击图中的系统名字，会弹出具体系统版本， 搭建脚本支持CentOS7**
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/new5.PNG)
 
@@ -141,7 +141,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 ***
 
-**一键安装wirguard脚本代码（CentOS7+/Ubuntu18.04+/Debian9+）**：
+**一键安装wirguard脚本一（CentOS7）**：
 
 ***
 
@@ -149,7 +149,17 @@ curl -O https://raw.githubusercontent.com/atrandys/wireguard/master/wg_mult.sh &
 
 ***
 
-复制上面整个代码到vps服务器中 。复制后如果不动按回车键。
+**一键安装wirguard脚本二（CentOS7）**：
+
+***
+
+yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard/master/wireguard_install.sh && chmod +x wireguard_install.sh && ./wireguard_install.sh
+
+注意：脚本二的安装，先输入数字1升级CentOS7系统的内核，升级完成后重启服务器，之后再运行脚本，输入数字2来安装wirguard。
+
+***
+
+复制上面整个脚本一代码到vps服务器中 。复制后如果不动按回车键。（如果脚本一安装后用不了，可以用脚本二来安装）
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/wire1.jpg)
 
