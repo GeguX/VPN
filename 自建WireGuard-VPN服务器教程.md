@@ -200,7 +200,11 @@ sz /etc/wireguard/client.conf
 
 2、选择6  增加用户
 
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/5.png)
+
 3、然后输入一个用户名，不要和之前的重复
+
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/6.png)
 
 4、然后获取新用户名.conf文件即可
 
