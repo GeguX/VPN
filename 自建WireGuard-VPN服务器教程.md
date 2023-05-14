@@ -192,6 +192,8 @@ sz /etc/wireguard/client.conf
 
 这样，wireguard的账号配置信息就搭建好了。 接着下载安装TunSafe，这是wireguard windows版第三方开发软件，也可以去wireguard.com官网，下载官方的Windows版客户端，推荐用tunsafe。
 
+**由于同一个客户端配置只能同时用于一台设备连接，所以如果需要同时使用多个客户端的话，可以建立多个客户端配置。**
+
 **增加wireguard多用户方法**：
 
 1、输入安装脚本
