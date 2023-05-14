@@ -154,7 +154,7 @@ yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard
 
 复制上面整个脚本代码到vps服务器中 。复制后如果不动按回车键。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/1.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/3.png)
 
 输入数字1进行CentOS7系统的内核升级，升级完成后重启服务器。
 
@@ -162,7 +162,7 @@ yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard
 
 安装到这个界面后需要重启下服务器。如果提示重启服务器y/n？ 输入y 。如果跳过了这条提示，输入reboot也能重启服务器。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/1.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/4.png)
 
 之后再运行脚本，输入数字2来安装wirguard。
 
@@ -194,11 +194,9 @@ sz /etc/wireguard/client.conf
 
 **增加wireguard多用户方法**：
 
-1、进入下载脚本的路径，然后使用以下命令打开脚本
+1、输入安装脚本
 
-./wg_mult.sh
-
-2、选择4 add user
+2、选择6  增加用户
 
 3、然后输入一个用户名，不要和之前的重复
 
@@ -210,7 +208,11 @@ sz /etc/wireguard/client.conf
 
 PC端：
 
-TunSafe 官网下载：https://tunsafe.com/download ，下载TunSafe-1.4.exe 文件大小：401k [国外网盘下载](https://d.ssrfree4.xyz/TunSafe-1.4.exe)
+TunSafe 官网下载：https://tunsafe.com/download 
+
+下载TunSafe-1.5-rc2.exe（最新版） 文件大小：607k [国外网盘下载](https://d.ssrfree4.xyz/TunSafe-1.5-rc2.exe)
+
+下载TunSafe-1.4.exe（稳定版） 文件大小：401k [国外网盘下载](https://d.ssrfree4.xyz/TunSafe-1.4.exe)
 
 下载后双击安装。
 
