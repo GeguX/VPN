@@ -155,7 +155,7 @@ curl -O https://raw.githubusercontent.com/atrandys/wireguard/master/wg_mult.sh &
 
 yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard/master/wireguard_install.sh && chmod +x wireguard_install.sh && ./wireguard_install.sh
 
-注意：脚本二的安装，先输入数字1升级CentOS7系统的内核，升级完成后重启服务器，之后再运行脚本，输入数字2来安装wirguard。
+**注意：脚本二的安装，先输入数字1升级CentOS7系统的内核，升级完成后重启服务器，之后再运行脚本，输入数字2来安装wirguard。**
 
 ***
 
