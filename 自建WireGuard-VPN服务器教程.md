@@ -152,7 +152,7 @@ yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard
 
 ***
 
-复制上面整个脚本代码到vps服务器中 。复制后如果不动按回车键。（如果脚本一安装后用不了，可以用脚本二来安装）
+复制上面整个脚本代码到vps服务器中 。复制后如果不动按回车键。
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/1.png)
 
@@ -162,13 +162,17 @@ yum install -y wget && wget https://raw.githubusercontent.com/atrandys/wireguard
 
 安装到这个界面后需要重启下服务器。如果提示重启服务器y/n？ 输入y 。如果跳过了这条提示，输入reboot也能重启服务器。
 
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/1.png)
+
+之后再运行脚本，输入数字2来安装wirguard。
+
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/wire3.jpg)
 
 上述是二维码界面，不用管。鼠标往上滑动会看到这个提示，需要把 /etc/wireguard/client.conf文件下载到电脑上。
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/wire4.jpg)
 
-有两种方法。一种是输入命令 cat /etc/wireguard/client.conf ，信息就会展示出来，如下来。然后复制（鼠标左键选中，右键选择复制），新建一个 client.conf 文件，把内容粘贴进去并保存即可。
+有两种方法。一种是输入命令 cat /etc/wireguard/client.conf ，信息就会展示出来，如下图。然后复制（鼠标左键选中，右键选择复制），新建一个 client.conf 文件，把内容粘贴进去并保存即可。
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/wire5.jpg)
 
