@@ -30,25 +30,15 @@
 
 **北京时间2023年5月15日：网站被人恶意投诉到google，导致google浏览器访问高内核版页面出现错误。解决方法：需要一些人来向google反馈，越多越好。打开申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ 在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88 Additional details那一栏填写原因或者网站不错或者不填，然后提交。**
 
-**北京时间2023年5月12日：更新谷歌高内核Chrome113所有版本、Chrome109部分版本，更新火狐集合版，更新谷歌低内核集合版。**
+> 北京时间2023年5月12日：更新谷歌高内核Chrome113所有版本、Chrome109部分版本，更新火狐集合版，更新谷歌低内核集合版。
 
-**北京时间2023年4月29日：更新Chrome109和Chrome112集合版、火狐所有版本。**
+> 北京时间2023年4月29日：更新Chrome109和Chrome112集合版、火狐所有版本。
 
-**北京时间2023年4月28日：发布新软件谷歌高内核MetaWJ版。**
+> 北京时间2023年4月28日：发布新软件谷歌高内核MetaWJ版。
 
-**北京时间2023年4月24日：更新Chrome109和Chrome112集合版、火狐集合版、谷歌低内核集合版，增加clash.meta工具。**
+> 北京时间2023年4月24日：更新Chrome109和Chrome112集合版、火狐集合版、谷歌低内核集合版，增加clash.meta工具。
 
 > 北京时间2023年4月21日：更新Chrome109和Chrome112集合版、火狐集合版、谷歌低内核集合版，增加Xray工具，hysteria工具增加2个ip地址。
-
-> 北京时间2023年4月18日-21日：最近封锁加重，部分工具被封的厉害，可以优先选择clash、Xray、hysteria、singbox、naiveproxy工具。会持续更新。
-
-> 北京时间2023年4月16日-17日：更新集合版clash工具的ip1、ip2、ip3、ip4、ip5、ip6配置，v2ray工具的ip1、ip2、ip3、ip4配置，SSR工具的p1、ip2配置，SS-plugin工具的ip1、ip2配置，按照使用说明运行ip更新即可同步到云端。
-
-> 北京时间2023年4月13日：更新集合版v2ray工具的ip1、ip4配置，SSR工具的ip1、ip2配置，SS-plugin工具的ip2，按照使用说明运行ip更新即可同步到云端。
-
-> 北京时间2023年4月6日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)版，主要更新谷歌内核到Chrome112。
-
-> 北京时间2023年4月5日：更新[谷歌高内核](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88)、[谷歌低内核](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88)、[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)集合版。
 
 > ......
 
