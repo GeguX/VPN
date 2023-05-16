@@ -31,8 +31,6 @@
 
 备用网址：https://tr1.freeku9.xyz/v2ray免费账号
 
-[不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub)
-
 ***
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
