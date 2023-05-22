@@ -24,7 +24,7 @@
 
 **北京时间2023年5月20日：github网站被人恶意投诉到google，导致google浏览器访问高内核版页面出现错误。这个问题不解决的话可能会间接影响ss免费账号页面的访问。解决方法：需要大家来向google反馈，越多越好。打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ 在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88 Additional details那一栏填写原因或者不填，然后提交。**
 
-**北京时间2023年5月22日10点00分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2023年5月22日19点00分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://a1.freegithub.site/Alvin9999/new-pac/wiki/ss免费账号
 
