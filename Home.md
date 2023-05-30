@@ -18,6 +18,8 @@
 
 ***
 
+备用网址：https://b1.freeku8.xyz/Alvin9999/new-pac/wiki （镜像网站）
+
 备用网址：https://tr1.freeku9.xyz
 
 ***
