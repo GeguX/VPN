@@ -28,11 +28,7 @@
 
 **北京时间2023年6月8日：更新谷歌高内核Chrome114所有版本、Chrome109部分版本，更新火狐集合版，更新谷歌低内核集合版。**
 
-**北京时间2023年5月23日：github网站被人恶意投诉到google，导致google浏览器访问高内核版页面出现错。解决方法：需要大家来向google反馈，越多越好。打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ 在URL填写申诉网址，Additional details那一栏填写原因The website is maliciously complained.或者不填，然后提交。目前有以下几个网址被影响**：
-
-https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88
-
-https://b1.freeku8.xyz/Alvin9999/new-pac/wiki （镜像网址）
+**北京时间2023年5月23日：github网站被人恶意投诉到google，导致google浏览器访问高内核版页面出现错。解决方法：需要大家来向google反馈，越多越好。打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ 在URL填写申诉网址，Additional details那一栏填写原因The website is maliciously complained.或者不填，然后提交。目前被影响的网址是https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88和https://b1.freeku8.xyz/Alvin9999/new-pac/wiki**：
 
 > 北京时间2023年5月17日：更新谷歌高内核、谷歌低内核以及火狐所有版本。
 
