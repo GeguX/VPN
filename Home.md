@@ -30,7 +30,7 @@
 
 https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88
 
-https://a1.trump2023.org/Alvin9999/new-pac/wiki
+https://b1.freeku8.xyz/Alvin9999/new-pac/wiki （镜像网址）
 
 
 **北京时间2023年5月17日：更新谷歌高内核、谷歌低内核以及火狐所有版本。**
