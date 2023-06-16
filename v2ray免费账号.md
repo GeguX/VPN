@@ -31,6 +31,8 @@
 
 备用网址：https://a1.freeku7.xyz/v2ray免费账号
 
+备用网址：https://a1.freeku4.xyz/v2ray免费账号
+
 ***
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
