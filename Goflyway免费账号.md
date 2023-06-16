@@ -28,6 +28,8 @@
 
 备用网址：https://a1.freeku7.xyz/Goflyway免费账号
 
+备用网址：https://a1.freeku4.xyz/Goflyway免费账号
+
 ***
 
 IP：46.29.163.196
