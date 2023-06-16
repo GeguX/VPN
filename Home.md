@@ -22,6 +22,8 @@
 
 备用网址：https://a1.freeku7.xyz
 
+备用网址：https://a1.freeku4.xyz
+
 ***
 
 **近期重要更新提醒**：
