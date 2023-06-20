@@ -18,11 +18,9 @@
 
 ***
 
-备用网址：https://tr1.freeku9.xyz
+备用网址：https://tr1.freeku9.xyz  备用网址：https://a1.freeku7.xyz
 
-备用网址：https://a1.freeku7.xyz
-
-备用网址：https://a1.freeku4.xyz
+备用网址：https://a1.freeku4.xyz   备用网址：t1.freego1.xyz
 
 ***
 
