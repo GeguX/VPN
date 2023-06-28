@@ -2,7 +2,7 @@
 
 ### 翻墙后推荐网站：
 
-[Google](https://www.google.com)(搜索类） [动态网](http://dongtaiwang.com)(新闻及网址导航类） [YouTube](https://www.youtube.com)(视频类） [干净世界](https://www.ganjing.com/zh-CN)(视频类） [新唐人电视台](https://www.ntdtv.com)(视频新闻娱乐类）   [大纪元](https://www.epochtimes.com)（新闻类）  [阿波罗新闻网](https://www.aboluowang.com)(新闻类） [禁书网](https://www.bannedbook.org)（新闻书籍类）   [神韵](https://zh-cn.shenyun.com)（文化艺术类） [维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)
+[Google](https://www.google.com)(搜索类） [动态网](http://dongtaiwang.com)(新闻及网址导航类） [YouTube](https://www.youtube.com)(视频类） [干净世界](https://www.ganjing.com/zh-CN)(视频类） [新唐人电视台](https://www.ntdtv.com)(视频新闻娱乐类）   [大纪元](https://www.epochtimes.com)（新闻类）  [阿波罗新闻网](https://www.aboluowang.com)(新闻类） [禁书网](https://www.bannedbook.org)（新闻书籍类）   [神韵](https://zh-cn.shenyun.com)（文化艺术类） [维基百科](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5) (百科类）
   
 
 ***
