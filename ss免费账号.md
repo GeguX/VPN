@@ -48,8 +48,8 @@
 <tr>
 <tr>
 <td>洛杉矶1</td>
-<td>t3.freegradely.xyz</td>
-<td>11122</td>
+<td>45.140.168.116</td>
+<td>22222</td>
 <td>dongtaiwang.com</td>
 <td>none</td>
 <td>auth_chain_a</td>
@@ -61,7 +61,7 @@
 
 **SSR节点链接：**
 
-ssr://dDMuZnJlZWdyYWRlbHkueHl6OjExMTIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9ZDNkM0xtUnZibWQwWVdsM1lXNW5MbU52YlNEbXRKdm1uWW5ubjdZ
+ssr://NDUuMTQwLjE2OC4xMTY6MjIyMjI6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1kM2QzTG1SdmJtZDBZV2wzWVc1bkxtTnZiU0RtdEp2bW5Zbm5uN1k
 
 **SS节点：**
 
