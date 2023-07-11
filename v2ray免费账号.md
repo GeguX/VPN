@@ -37,7 +37,7 @@
 
 **v2ray节点**
 
-Address(地址): www.dongtaiwang2.com
+Address(地址): dongtaiwang2.com
 
 Port（端口）: 443
 
@@ -59,7 +59,8 @@ headerType（伪装类型）: none
 
 **v2ray节点链接**：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb20iLA0KICAiYWRkIjogInd3dy5kb25ndGFpd2FuZzIuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAxMmM0NTQ5LTE3ZDItNDc1ZS1iMWMxLWEzYjE5Y2YzNjYyMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiMi5mcmVlazEueHl6IiwNCiAgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiDQp9
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb20iLA0KICAiYWRkIjogImRvbmd0YWl3YW5nMi5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDEyYzQ1NDktMTdkMi00NzVlLWIxYzEtYTNiMTljZjM2NjIyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIyLmZyZWVrMS54eXoiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑[付费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
