@@ -26,7 +26,7 @@
 
 备用网址：https://a1.freeku7.xyz/ss免费账号  备用网址：https://a1.freeku4.xyz/ss免费账号   
 
-备用网址：https://t1.freego1.xyz/ss免费账号  备用网址：https://t1.freeku9.xyz/ss免费账号  
+备用网址：https://t1.freego1.xyz/ss免费账号  
 
 ***
 
