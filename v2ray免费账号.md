@@ -24,7 +24,7 @@
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。自由门7.99版[下载地址1](https://d2.freessr2.xyz/fg799p.zip) [下载地址2](https://d.ssrfree4.xyz/fg799p.zip)  无界21.32版[下载地址1](https://d2.freessr2.xyz/u2132.exe) [下载地址2](https://d.ssrfree4.xyz/u2132.exe)**
 
-**北京时间2023年7月11日11点30分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
+**北京时间2023年7月19日11点30分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。**
 
 
 备用网址：https://a1.freeku7.xyz/v2ray免费账号   备用网址：https://a1.freeku4.xyz/v2ray免费账号    
@@ -41,7 +41,7 @@ Address(地址): dongtaiwang2.com
 
 Port（端口）: 443
 
-UUID（用户id）: 012c4549-17d2-475e-b1c1-a3b19cf36622
+UUID（用户id）: 25a9f3b9-1e6d-40bd-968b-e0818c1b196f
 
 alterId（额外ID）: 0
 
@@ -59,8 +59,7 @@ headerType（伪装类型）: none
 
 **v2ray节点链接**：
 
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb20iLA0KICAiYWRkIjogImRvbmd0YWl3YW5nMi5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMDEyYzQ1NDktMTdkMi00NzVlLWIxYzEtYTNiMTljZjM2NjIyIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIyLmZyZWVrMS54eXoiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
-
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb20iLA0KICAiYWRkIjogImRvbmd0YWl3YW5nMi5jb20iLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMjVhOWYzYjktMWU2ZC00MGJkLTk2OGItZTA4MThjMWIxOTZmIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIyLmZyZWVrMS54eXoiLA0KICAicGF0aCI6ICIvZG9uZ3RhaXdhbmcuY29tIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
 
 **如果想搭建自己的v2ray节点，参考[自建v2ray服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAv2ray%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B) 。也可以考虑[付费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA)。**
 
