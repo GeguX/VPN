@@ -52,9 +52,9 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 
 免费试用，有限速。
 
-官方下载: https://tipasvpn.com/zh-HK/Download/
+下载: 目前可用下方这个Mac测试版。先安装TestFlight，TestFlight下载地址：https://apps.apple.com/us/app/testflight/id899247664 
 
-[国外云盘下载1](https://d2.freessr2.xyz/tipas.dmg) [国外云盘下载2](https://d.ssrfree4.xyz/tipas.dmg)
+再安装这个Mac测试版：https://testflight.apple.com/join/dvNhQgfX
 
 有两个网站可以购买服务：
 
