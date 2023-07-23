@@ -1,4 +1,4 @@
-**2022年10月14日增加神盾VPN Mac版。**
+**2023年7月23日更新。**
 
 ***
 
@@ -58,15 +58,19 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 
 有两个网站可以购买服务：
 
-信用卡或者 PayPal 支付：https://tipas-technologies.myshopify.com/zh-cn
+官网：https://cn.tipas.net
 
-支付宝支付：https://diamission.com/
+镜像：https://tipasvpn.com
+
+使用支付宝购买亚马逊礼品卡很方便，在结账和常见问题里面有说明和购买教程视频：
+
+https://tipasvpn.com/faq
 
 8折优惠码 TYZH 可以在两个网站上使用，大小写没有关系。
 
-官网：https://tipas.net/zh-HK/
+官网：https://cn.tipas.net/shop2/
 
-镜像站：https://tipasvpn.com/zh-HK/product/
+镜像站：https://tipasvpn.com/shop2/
 
 有问题联系官方客服邮箱：support@tipas.net
 
