@@ -54,7 +54,7 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 
 官方下载: https://tipasvpn.com/zh-HK/Download/
 
-[国外云盘下载1](https://d2.freessr2.xyz/tipas.dmg) [国外云盘下载2](https://d1.freessr1.xyz/tipas.dmg)
+[国外云盘下载1](https://d2.freessr2.xyz/tipas.dmg) [国外云盘下载2](https://d.ssrfree4.xyz/tipas.dmg)
 
 有两个网站可以购买服务：
 
