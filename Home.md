@@ -79,8 +79,9 @@
 
 [一键搭建科学上网工具ProxySU](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU) （2023年6月15日更新）
 
-
 [YouTube下载1080教程](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B) （2023年1月2日更新）
+
+[“翻墙”的现实意义](https://github.com/Alvin9999/new-pac/wiki/%E2%80%9C%E7%BF%BB%E5%A2%99%E2%80%9D%E7%9A%84%E7%8E%B0%E5%AE%9E%E6%84%8F%E4%B9%89)
 
 ***
 
