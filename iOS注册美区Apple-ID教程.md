@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p><strong>2022年9月29日更新。 </strong></p>
+<p><strong>2023年7月30日更新。 </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
@@ -26,7 +26,7 @@
 
 美国人地址生成器：https://www.meiguodizhi.com
 
-AppleID软件兑换码：https://store.appleid8.com （网友分享网址）
+AppleID软件兑换码：如果下载付费软件，可以在淘宝或拼多多上购买苹果礼品卡。
 
 ***
 
