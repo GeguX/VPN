@@ -28,7 +28,7 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年8月4日：云端更新集合版clash.meta工具ip1～ip6，hysteria工具ip1～ip4，xray工具ip2、ip4，按照使用说明运行ip更新即可同步。**
+**北京时间2023年8月4日：云端更新集合版clash.meta工具ip1～ip6，hysteria工具ip1～ip4，xray工具ip2、ip4，naiveproxy工具ip2，按照使用说明运行ip更新即可同步。**
 
 **北京时间2023年7月26日：更新谷歌高内核Chrome115、Chrome109、谷歌低内核、火狐所有版本。**
 
