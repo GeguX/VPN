@@ -26,9 +26,7 @@
 
 **北京时间2023年8月2日23点30分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据教程自己搭建节点，或者购买推荐的付费节点。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
-备用网址：https://a2.freeku4.xyz/Goflyway免费账号   备用网址：https://a1.freeku7.xyz/Goflyway免费账号   
-
-备用网址：https://t2.freego1.xyz/Goflyway免费账号   备用网址：https://t1.freego2.xyz/Goflyway免费账号 
+备用网址：https://t.free3.site/Goflyway免费账号   
 
 ***
 
