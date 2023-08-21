@@ -18,7 +18,7 @@
 
 ***
 
-备用网址：https://t.free6.site
+备用网址：https://t.dtku2.xyz
 
 ***
 
