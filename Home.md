@@ -18,7 +18,7 @@
 
 ***
 
-备用网址：https://t.dtku2.xyz
+备用网址：http://t.dtku2.xyz
 
 ***
 
