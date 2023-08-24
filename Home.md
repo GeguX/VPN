@@ -18,7 +18,7 @@
 
 ***
 
-备用网址：https://t4.dtku2.xyz 备用网址：https://t5.dtku2.xyz 备用网址：https://t6.dtku2.xyz
+备用网址：https://t7.dtku2.xyz
 
 ***
 
