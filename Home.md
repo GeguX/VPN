@@ -26,11 +26,13 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年8月10日：云端更新集合版clash.meta工具ip3，sing-box工具ip2，naiveproxy工具ip2，SSR-WJ工具ip2，按照使用说明运行ip更新即可同步。**
+**北京时间2023年8月10日：更新谷歌高内核Chrome116所有版本，谷歌Chrome109部分版本，谷歌低内核集合版，火狐集合版。**
 
-**北京时间2023年8月4日：云端更新集合版clash.meta工具ip1～ip6，hysteria工具ip1～ip4，xray工具ip2、ip4，naiveproxy工具ip2，按照使用说明运行ip更新即可同步。**
+> 北京时间2023年8月10日：云端更新集合版clash.meta工具ip3，sing-box工具ip2，naiveproxy工具ip2，SSR-WJ工具ip2，按照使用说明运行ip更新即可同步。
 
-**北京时间2023年7月26日：更新谷歌高内核Chrome115、Chrome109、谷歌低内核、火狐所有版本。**
+> 北京时间2023年8月4日：云端更新集合版clash.meta工具ip1～ip6，hysteria工具ip1～ip4，xray工具ip2、ip4，naiveproxy工具ip2，按照使用说明运行ip更新即可同步。
+
+> 北京时间2023年7月26日：更新谷歌高内核Chrome115、Chrome109、谷歌低内核、火狐所有版本。
 
 > 北京时间2023年7月6日：集合版部分工具和部分ip更新暂时不可用。已修复
 
@@ -43,11 +45,11 @@
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年7月26日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年8月25日更新）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年7月26日更新）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年8月25日更新）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年7月26日更新）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年8月25日更新）
 
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub) （2022年6月7日发布）
 
