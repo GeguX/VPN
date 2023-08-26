@@ -30,6 +30,8 @@
 
 备用网址：https://t.dtku18.xyz/v2ray免费账号    
 
+备用网址：https://g.dtku15.xyz/Alvin9999/new-pac/wiki/v2ray免费账号 （github镜像）
+
 ***
 
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。
