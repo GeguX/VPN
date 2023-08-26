@@ -28,6 +28,8 @@
 
 备用网址：https://t.dtku18.xyz/Goflyway免费账号   
 
+备用网址：https://g.dtku15.xyz/Alvin9999/new-pac/wiki/Goflyway免费账号 （github镜像）
+
 ***
 
 IP：45.144.2.35
