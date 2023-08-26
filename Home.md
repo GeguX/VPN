@@ -20,7 +20,7 @@
 
 备用网址：https://t.dtku18.xyz 
 
-备用网址：https://g.dtku15.xyz/Alvin9999/new-pac/wiki
+备用网址：https://g.dtku15.xyz/Alvin9999/new-pac/wiki (github镜像)
 
 ***
 
