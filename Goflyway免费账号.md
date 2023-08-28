@@ -28,7 +28,7 @@
 
 备用网址：https://t.dtku19.xyz/Goflyway免费账号   
 
-备用网址：https://g2.dtku15.xyz/Alvin9999/new-pac/wiki/Goflyway免费账号 （github镜像）
+备用网址：https://g.dtku23.xyz/Alvin9999/new-pac/wiki/Goflyway免费账号 （github镜像）
 
 ***
 
