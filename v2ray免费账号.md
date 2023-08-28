@@ -30,7 +30,7 @@
 
 备用网址：https://t.dtku19.xyz/v2ray免费账号    
 
-备用网址：https://g.dtku15.xyz/Alvin9999/new-pac/wiki/v2ray免费账号 （github镜像）
+备用网址：https://g2.dtku15.xyz/Alvin9999/new-pac/wiki/v2ray免费账号 （github镜像）
 
 ***
 
