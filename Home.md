@@ -18,9 +18,8 @@
 
 ***
 
-备用网址：![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/t2.png)
+![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/t3.png)
 
-备用网址：https://g.dtku23.xyz/Alvin9999/new-pac/wiki (github镜像)
 
 ***
 
