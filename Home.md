@@ -18,8 +18,7 @@
 
 ***
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/t5.png)
-
+备用网址：https://t.dtku25.xyz
 
 ***
 
