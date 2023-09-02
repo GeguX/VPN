@@ -80,7 +80,7 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 <td>www.dongtaiwang4.com</td>
 <td>11002</td>
 <td>dongtaiwang.com</td>
-<td>aes-256-gcm</td>
+<td>chacha20-ietf-poly1305</td>
 </tr>
 </tbody>
 </table>
