@@ -47,7 +47,7 @@
 
 [谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/4e4bd6e382c43fb7d5a6208e175e83de31f7bf07) （2023年8月25日更新）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年8月25日更新）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88/9472e6c52b52c67789c2547759d3b5f770a80332) （2023年8月25日更新）
 
 [火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8/20ef0f47e1d78c9900d89731362c8e0ebd87dfc6)（2023年8月25日更新）
 
