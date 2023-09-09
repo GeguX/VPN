@@ -49,7 +49,7 @@
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年8月25日更新）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年8月25日更新）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8/20ef0f47e1d78c9900d89731362c8e0ebd87dfc6)（2023年8月25日更新）
 
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub) （2022年6月7日发布）
 
