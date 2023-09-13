@@ -24,19 +24,15 @@
 
 **近期重要更新提醒**：
 
+**北京时间2023年9月13日：发布新软谷歌高内核Quick版。**
+
 **北京时间2023年9月12日：由于封锁的原因，谷歌高内核MetaWJ版停止更新不再维护，建议下载集合版来使用。**
 
-**北京时间2023年8月25日：更新谷歌高内核Chrome116所有版本，谷歌Chrome109部分版本，谷歌低内核集合版，火狐集合版。**
+> 北京时间2023年8月25日：更新谷歌高内核Chrome116所有版本，谷歌Chrome109部分版本，谷歌低内核集合版，火狐集合版。
 
 > 北京时间2023年8月10日：云端更新集合版clash.meta工具ip3，sing-box工具ip2，naiveproxy工具ip2，SSR-WJ工具ip2，按照使用说明运行ip更新即可同步。
 
-> 北京时间2023年8月4日：云端更新集合版clash.meta工具ip1～ip6，hysteria工具ip1～ip4，xray工具ip2、ip4，naiveproxy工具ip2，按照使用说明运行ip更新即可同步。
-
-> 北京时间2023年7月26日：更新谷歌高内核Chrome115、Chrome109、谷歌低内核、火狐所有版本。
-
-> 北京时间2023年7月6日：集合版部分工具和部分ip更新暂时不可用。已修复。
-
-> 北京时间2023年6月8日：更新谷歌高内核Chrome114所有版本、Chrome109部分版本，更新火狐集合版，更新谷歌低内核集合版。
+> ......
 
 > 北京时间2023年5月23日：github网站被人恶意投诉到google，导致google浏览器访问高内核版页面出现错。解决方法：需要大家来向google反馈，越多越好。打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ 在URL填写申诉网址，Additional details那一栏填写原因The website is maliciously complained.或者不填，然后提交。目前被影响的网址：https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88
 
@@ -45,7 +41,7 @@
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/4e4bd6e382c43fb7d5a6208e175e83de31f7bf07) （2023年8月25日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/69132a66b2f88c42c201b1ccb6c3aba8f4e2262e) （2023年9月13日更新）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88/9472e6c52b52c67789c2547759d3b5f770a80332) （2023年8月25日更新）
 
