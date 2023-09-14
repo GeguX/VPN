@@ -1,8 +1,8 @@
-[w1.v2free.cyou](https://w1.v2free.cyou/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。任意套餐的高速节点都支持访问openAI ChatGPT。
+[w1.v2free.cyou](https://w1.v2free.cyou/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，2020年开始已稳定运行3年。支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。任意套餐的高速节点都支持访问openAI ChatGPT。
 
 ***
 
-节点位置有台湾、香港、韩国、日本、美国、新加坡等，节点包括v2ray节点和SS节点。
+节点位置有台湾、香港、韩国、日本、美国、新加坡等，付费套餐节点包括v2ray节点和SS节点。
 
 
 **价格**
