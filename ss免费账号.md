@@ -63,6 +63,8 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 
 **SS节点：**
 
+最近ss节点被封的频繁，如果需要稳定高速的节点，推荐[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 2020年开始已稳定运行3年。
+
 <table id="tablepress-1">
 <thead>
 <tr>
