@@ -18,7 +18,7 @@
 
 ***
 
-备用网址：https://t.bku10.xyz （建议保存）
+备用网址：https://t.bku10.xyz
 
 ***
 
