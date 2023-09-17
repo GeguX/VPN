@@ -8,11 +8,11 @@
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/%E5%9B%BE%E6%A0%87.PNG)
 
 
-**介绍**：clash.meta、Xray、hysteria、singbox、naiveproxy、SSR-WJ、FreeGate、无界，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
+**介绍**：clash.meta、Xray、hysteria、singbox、naiveproxy、hysteria2、FreeGate、无界，适合windows操作系统，比如：xp、win7、win8、win10系统。压缩包文件的格式是7z，如果解压出错，用7解压软件来解压（[7z解压软件下载地址](https://sparanoid.com/lab/7z/)）。
 
 **注意**：软件都是采用加密方式的，但为了更稳定、更安全的翻墙，建议卸载国产杀毒软件，至少翻墙时不要用它们！因为很多国产杀毒软件，比如360安全卫生、360杀毒软件、腾讯管家、金山卫士等不仅仅会起干扰作用，造成软件无法正常使用或速度变慢，它们与防火墙还有千丝万缕的关系！可以用国外的杀毒软件[avast](http://files.avast.com/iavs9x/avast_free_antivirus_setup_offline.exe)，防火墙[simplewall](https://github.com/henrypp/simplewall/releases/download/v.2.3.4/simplewall-2.3.4-setup.exe)，它们都是免费的，而且不会干扰电脑运行。
 
-**选择指南**：集合版(clash.meta、Xray、hysteria、singbox、naiveproxy、SSR-WJ)、FreeGate版、无界版可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。
+**选择指南**：集合版(clash.meta、Xray、hysteria、singbox、naiveproxy、hysteria2)、FreeGate版、无界版可以按照顺序依次尝试。由于国内网络环境不同、地区不同，封锁强度会不同，所以使用效果会有差别，有的地区几乎所有的软件都能使用，有的只能用几款，因此具体哪款软件适合你的网络环境，需要你自己来尝试。xp系统只能用低内核版。
 
 **YouTube频道推荐**： [文昭谈古论今](https://www.youtube.com/@wenzhaoofficial/videos)  [天亮时分](https://www.youtube.com/@TianLiangTimes/streams)  [江峰时刻](https://www.youtube.com/@JiangFengTimes/videos)    [Leonard](https://www.youtube.com/channel/UC1mx_wcSHtfpLk5N_zY0TRg/videos)  [探索时分周子定](https://www.youtube.com/c/%E6%8E%A2%E7%B4%A2%E6%99%82%E5%88%86-%E5%91%A8%E5%AD%90%E5%AE%9A/videos) [文昭思绪飞扬](https://www.youtube.com/channel/UCTu_hTaVf3DJMpMIyOAq2Ew/videos) [未解之谜扶搖](https://www.youtube.com/c/%E6%9C%AA%E8%A7%A3%E4%B9%8B%E8%AC%8E%E6%89%B6%E6%90%96/videos)
 
@@ -24,13 +24,13 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年9月13日：发布新软谷歌高内核Quick版。**
+**北京时间2023年9月18日：更新Chrome117所有版本，Chrome109部分版本，火狐集合版和谷歌低内核集合版。**
+
+> 北京时间2023年9月13日：发布新软谷歌高内核Quick版。
 
 > 北京时间2023年9月12日：由于封锁的原因，谷歌高内核MetaWJ版停止更新不再维护，建议下载集合版来使用。
 
 > 北京时间2023年8月25日：更新谷歌高内核Chrome116所有版本，谷歌Chrome109部分版本，谷歌低内核集合版，火狐集合版。
-
-> 北京时间2023年8月10日：云端更新集合版clash.meta工具ip3，sing-box工具ip2，naiveproxy工具ip2，SSR-WJ工具ip2，按照使用说明运行ip更新即可同步。
 
 > ......
 
@@ -41,11 +41,11 @@
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/69132a66b2f88c42c201b1ccb6c3aba8f4e2262e) （2023年9月13日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/dd9ae69f22fd0cc4c0f59f27d0b2d7c31d699deb) （2023年9月18日更新）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88/9472e6c52b52c67789c2547759d3b5f770a80332) （2023年8月25日更新）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88/05cf906abd2a1ae69c97b09ea8928ca5c137258e) （2023年8月18日更新）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8/20ef0f47e1d78c9900d89731362c8e0ebd87dfc6)（2023年8月25日更新）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8/14c82cc04fc878560f20f0ede0bd6cc0f6c7e8c7)（2023年9月18日更新）
 
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub) （2022年6月7日发布）
 
