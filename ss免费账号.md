@@ -80,7 +80,7 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 <td>64.31.55.94</td>
 <td>11111</td>
 <td>dongtaiwang.com</td>
-<td>aes-128-gcm</td>
+<td>aes-256-gcm</td>
 </tr>
 </tbody>
 </table>
