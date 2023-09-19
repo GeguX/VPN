@@ -1,6 +1,4 @@
-**2023年6月15日更新。**
-
-**2023年5月4日更新。教程末尾增加八合一共存脚本。**
+**2023年9月19日更新。**
 
 ***
 
@@ -204,37 +202,6 @@ source <(curl -sL https://multi.netlify.app/v2ray.sh) --remove
 
 ***
 
-**注意：账号无法使用，可能原因：客户端与服务端的设备系统时间相差过大。解决方法如下：**
-
-**1、一般国外的VPS的镜像都是默认的国外时区，使用起来不是很方便。可以把它修改成北京时间，就会方便很多。**
-**修改中国时区代码如下**：
-
-\cp -f /usr/share/zoneinfo/Asia/Shanghai /etc/localtime 
-
-**2、利用NTP同步时间协议**
-
-**CentOS系统先安装NTP**：yum install ntp ntpdate -y
-
-> 如果是Ubuntu/Debian系统执行下面2条命令来安装NTP
-
-> apt-get update
-
-> apt-get install ntp ntpdate -y  
-
-**安装NTP后，按照顺序依次执行以下3条命令，分别是停止NTP服务、同步NTP时间、启动NTP服务**：
-
-service ntpd stop  
-
-ntpdate us.pool.ntp.org 
-
-service ntpd start 
-
-**执行完成后，VPS上就是相对精确的时间设置了。很多依赖于系统时间的应用程序也就能正常工作了。注意：当vps重启后输入date来检查下时间，如果时间不是最新的，再执行以上3条命令即可。**
-
-> 除了通过NTP来同步时间以外，还可以手动修改vps系统时间，需要先修改中国时区，之后输入时间命令，格式（数字改为和自己电脑时间一致，误差30秒以内）：date -s "2020-2-02 19:14:00"
-
-
-***
 
 **第三步：一键加速VPS服务器**
 
