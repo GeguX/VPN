@@ -36,10 +36,6 @@
 
 > ......
 
-> 北京时间2023年5月23日：github网站被人恶意投诉到google，导致google浏览器访问高内核版页面出现错。解决方法：需要大家来向google反馈，越多越好。打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ 在URL填写申诉网址，Additional details那一栏填写原因The website is maliciously complained.或者不填，然后提交。目前被影响的网址：https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88
-
-> ......
-
 
 ***
 
