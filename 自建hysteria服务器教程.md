@@ -132,7 +132,7 @@ vultr实际上是折算成小时来计费的，比如服务器是5美元1个月�
 
 连接成功后，会出现如上图所示，之后就可以复制粘贴代码部署了。
 
-注意：以下是安装hysteria 1脚本，教程的末尾是安装hysteria 2脚本。图文教程是安装hysteria 1。hysteria 1和2不兼容，安装hysteria 1请使用hysteria 1相关的客户端。
+注意：以下是安装hysteria 1脚本，教程的末尾是安装hysteria 2脚本。图文教程是安装hysteria 1。hysteria 1和2不兼容，安装hysteria 1后请使用hysteria 1相关的客户端。
 
 ***
 
@@ -243,7 +243,7 @@ bbr加速是tcp加速，而hysteria是Quic(udp)协议。所以不用再部署bbr
 
 3、如何安装hysteria 2？
 
-Hysteria 2 继承了 Hysteria 1.x 的几乎所有功能，同时引入了各种新的修复和增强。但值得注意的是，由于协议和代码经过了重大更改，Hysteria 2 与 Hysteria 1.x 完全不兼容。 用户必须在客户端和服务器上使用一致的版本，客户端使用2.0及以上版本。
+Hysteria 2 继承了 Hysteria 1.x 的几乎所有功能，同时引入了各种新的修复和增强。但值得注意的是，由于协议和代码经过了重大更改，Hysteria 2 与 Hysteria 1.x 完全不兼容。 用户必须在客户端和服务器上使用一致的版本。安装Hysteria 2后客户端请使用2.0及以上版本。
 
 ***
 
