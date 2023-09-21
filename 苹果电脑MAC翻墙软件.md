@@ -2,7 +2,7 @@
 
 ***
 
-**第一种方法：利用SS/SSR账号翻墙上网**
+### 第一种方法：利用SS/SSR账号翻墙上网
 
 [全平台SS/SSR客户端下载汇总](http://www.mediafire.com/folder/sfqz8bmodqdx5/shadowsocks相关客户端)
 
@@ -38,7 +38,7 @@ STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 
 SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和1080就可以用浏览器翻墙了。
 
-**第二种方法：利用v2ray翻墙**
+### 第二种方法：利用v2ray翻墙
 
 1、使用Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) 
 
