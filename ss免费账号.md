@@ -77,8 +77,8 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 <tr>
 <tr>
 <td>洛杉矶2</td>
-<td>64.31.55.202</td>
-<td>10011</td>
+<td>64.31.55.47</td>
+<td>12345</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 </tr>
@@ -87,7 +87,7 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 
 **SS链接：**
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDY0LjMxLjU1LjIwMjoxMDAxMQ==#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b6
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDY0LjMxLjU1LjQ3OjEyMzQ1#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b6
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr账号-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
