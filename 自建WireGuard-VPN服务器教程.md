@@ -216,9 +216,9 @@ PC端：
 
 TunSafe 官网下载：https://tunsafe.com/download 
 
-下载TunSafe-1.5-rc2.exe（最新版） 文件大小：607k [国外网盘下载](https://d.ssrfree4.xyz/TunSafe-1.5-rc2.exe)
+下载TunSafe-1.5-rc2.exe（最新版） 文件大小：607k [国外网盘下载](https://d.dtku35.xyz/TunSafe-1.5-rc2.exe)
 
-下载TunSafe-1.4.exe（稳定版） 文件大小：401k [国外网盘下载](https://d.ssrfree4.xyz/TunSafe-1.4.exe)
+下载TunSafe-1.4.exe（稳定版） 文件大小：401k [国外网盘下载](https://d.dtku35.xyz/TunSafe-1.4.exe)
 
 下载后双击安装。
 
@@ -267,7 +267,7 @@ TunSafe尚没有针对Linux，OSX或FreeBSD的图形用户界面。但是，您�
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/wire/wire-erwei2.jpg)
 
 
-安卓版：WireGuard1.0.apk [国外云盘下载](https://d2.freessr2.xyz/WireGuard_1.0.20230510_Apkpure.apk) [国外云盘2下载](https://d.ssrfree4.xyz/WireGuard_1.0.20230510_Apkpure.apk)
+安卓版：WireGuard1.0.apk [国外云盘下载](https://d2.freessr2.xyz/WireGuard_1.0.20230510_Apkpure.apk) [国外云盘2下载](https://d.dtku35.xyz/WireGuard_1.0.20230510_Apkpure.apk)
 
 安卓版安卓wireguard后，选择右下角的+号按钮进行配置，可以选择第一个将配置文件导入进去，也可以选择第二个扫描二维码。
 
