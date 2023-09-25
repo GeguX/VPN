@@ -82,7 +82,7 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 <td>www.dongtaiwang4.com</td>
 <td>10088</td>
 <td>xrg1Loht/QpRRFr7Mx5xC/XpIAdIEwMF+CuEDeZl2sM=</td>
-<td>2022-blake3-es-256-gcm</td>
+<td>2022-blake3-aes-256-gcm</td>
 </tr>
 </tbody>
 </table>
