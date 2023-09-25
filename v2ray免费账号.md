@@ -90,11 +90,26 @@ VPS推荐：
 
 **注意**：第一次使用v2ray时，需要安装最新版NET Framework ，不然无法正常运行，[微软官网](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)下载。
 
-windows客户端[v2rayN](https://github.com/2dust/v2rayN/releases/latest) (下载带core的文件)
+windows v2rayN 6.23客户端 文件名称：v2rayN-With-Core.zip
 
-Mac客户端[v2rayX](https://github.com/insisttech/v2rayX-copy/releases) 或 [v2rayU](https://github.com/yanue/V2rayU/releases)
+[下载地址1](https://d2.freessr2.xyz/v2rayN-With-Core.zip)
+[下载地址2](https://d.dtku35.xyz/v2rayN-With-Core.zip)
+[下载地址3](https://free.zhujicn2.net/v2rayN-With-Core.zip)
+[github下载](https://github.com/2dust/v2rayN/releases/latest) (下载带core的文件)
 
-Linux客户端[Qv2ray](https://github.com/lhy0403/Qv2ray/releases) 
+Mac客户端 v2rayU 3.8.0客户端 文件名称：V2rayU-64.dmg
+
+[下载地址1](https://d2.freessr2.xyz/V2rayU-64.dmg)
+[下载地址2](https://d.dtku35.xyz/V2rayU-64.dmg)
+[下载地址3](https://free.zhujicn2.net/V2rayU-64.dmg)
+[github下载](https://github.com/yanue/V2rayU/releases)
+
+Linux客户端 Qv2ray 2.7.0客户端  文件名称：Qv2ray-v2.7.0-linux-x64.AppImage
+
+[下载地址1](https://d2.freessr2.xyz/Qv2ray-v2.7.0-linux-x64.AppImage)
+[下载地址2](https://d.dtku35.xyz/Qv2ray-v2.7.0-linux-x64.AppImage)
+[下载地址3](https://free.zhujicn2.net/Qv2ray-v2.7.0-linux-x64.AppImage)
+[github下载](https://github.com/lhy0403/Qv2ray/releases) 
 
 安卓v2rayNG 1.8.5客户端  文件名称：v2rayNG_1.8.5.apk
 
