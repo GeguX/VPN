@@ -46,9 +46,14 @@ SSR客户端填写好SSR账号后，将浏览器代理设置成http 127.0.0.1和
 
 ### 第二种方法：利用v2ray翻墙
 
-1、使用Mac客户端[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) 
+使用Mac客户端[v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases)  
 
-2、使用Mac客户端[v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases)  
+Mac客户端 v2rayU 3.8.0客户端 文件名称：V2rayU-64.dmg
+
+[下载地址1](https://d2.freessr2.xyz/V2rayU-64.dmg)
+[下载地址2](https://d.dtku35.xyz/V2rayU-64.dmg)
+[下载地址3](https://free.zhujicn2.net/V2rayU-64.dmg)
+[github下载](https://github.com/yanue/V2rayU/releases)
 
 [点我获取免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
