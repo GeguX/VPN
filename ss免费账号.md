@@ -124,32 +124,32 @@ VPS推荐：
 
 **注意**：第一次使用SS/SSR时，需要安装最新版NET Framework ，不然无法正常运行，[微软官网](https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48)下载。
 
-Windows SSR 4.7.0客户端 
+Windows SSR 4.7.0客户端 文件名称：ShadowsocksR-4.7.0-win.7z
 
 [下载地址1](https://d2.freessr2.xyz/ShadowsocksR-4.7.0-win.7z)
 [下载地址2](https://d.dtku35.xyz/ShadowsocksR-4.7.0-win.7z)
 [下载地址3](https://free.zhujicn2.net/ShadowsocksR-4.7.0-win.7z)
 [github下载](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/ShadowsocksR-4.7.0-win.7z)
 
-Windows SS 4.4.1客户端
+Windows SS 4.4.1客户端 文件名称：Shadowsocks-4.4.1.0.zip
 
 [下载地址1](https://d2.freessr2.xyz/Shadowsocks-4.4.1.0.zip)
 [下载地址2](https://d.dtku35.xyz/Shadowsocks-4.4.1.0.zip)
 [下载地址3](https://free.zhujicn2.net/Shadowsocks-4.4.1.0.zip)
 [github下载](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.4.1.0/Shadowsocks-4.4.1.0.zip) 
 
-Mac SSR客户端
+Mac SSR客户端 文件名称：ShadowsocksX-NG-R8.dmg
 
 [下载地址1](https://d2.freessr2.xyz/ShadowsocksX-NG-R8.dmg)
 [下载地址2](https://d.dtku35.xyz/ShadowsocksX-NG-R8.dmg)
 [下载地址3](https://free.zhujicn2.net/ShadowsocksX-NG-R8.dmg)
 [github下载](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases/download/1.4.2-R8-subscribe-alpha-3/ShadowsocksX-NG-R8.dmg) 
 
-Linux 客户端 
+Linux 客户端 文件名称：Shadowsocks-Qt5-x86_64-v3.0.1
 
 [下载地址](http://www.mediafire.com/folder/xag0zy318a5tt/Linux) 
 
-安卓SSR客户端 
+安卓SSR 3.4.0客户端  文件名称：shadowsocksr-release.apk
 
 [下载地址1](https://d2.freessr2.xyz/shadowsocksr-release.apk)
 [下载地址2](https://d.dtku35.xyz/shadowsocksr-release.apk)
