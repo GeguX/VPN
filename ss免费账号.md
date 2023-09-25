@@ -129,21 +129,21 @@ Windows SSR 4.7.0客户端 文件名称：ShadowsocksR-4.7.0-win.7z
 [下载地址1](https://d2.freessr2.xyz/ShadowsocksR-4.7.0-win.7z)
 [下载地址2](https://d.dtku35.xyz/ShadowsocksR-4.7.0-win.7z)
 [下载地址3](https://free.zhujicn2.net/ShadowsocksR-4.7.0-win.7z)
-[github下载](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases/ShadowsocksR-4.7.0-win.7z)
+[github下载](https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases)
 
 Windows SS 4.4.1客户端 文件名称：Shadowsocks-4.4.1.0.zip
 
 [下载地址1](https://d2.freessr2.xyz/Shadowsocks-4.4.1.0.zip)
 [下载地址2](https://d.dtku35.xyz/Shadowsocks-4.4.1.0.zip)
 [下载地址3](https://free.zhujicn2.net/Shadowsocks-4.4.1.0.zip)
-[github下载](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.4.1.0/Shadowsocks-4.4.1.0.zip) 
+[github下载](https://github.com/shadowsocks/shadowsocks-windows/releases) 
 
 Mac SSR客户端 文件名称：ShadowsocksX-NG-R8.dmg
 
 [下载地址1](https://d2.freessr2.xyz/ShadowsocksX-NG-R8.dmg)
 [下载地址2](https://d.dtku35.xyz/ShadowsocksX-NG-R8.dmg)
 [下载地址3](https://free.zhujicn2.net/ShadowsocksX-NG-R8.dmg)
-[github下载](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases/download/1.4.2-R8-subscribe-alpha-3/ShadowsocksX-NG-R8.dmg) 
+[github下载](https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases) 
 
 Linux 客户端 文件名称：Shadowsocks-Qt5-x86_64-v3.0.1
 
@@ -154,7 +154,7 @@ Linux 客户端 文件名称：Shadowsocks-Qt5-x86_64-v3.0.1
 [下载地址1](https://d2.freessr2.xyz/shadowsocksr-release.apk)
 [下载地址2](https://d.dtku35.xyz/shadowsocksr-release.apk)
 [下载地址3](https://free.zhujicn2.net/shadowsocksr-release.apk)
-[github下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases/download/3.4.0.8/shadowsocksr-release.apk)
+[github下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
 
 
 iOS：[没有美区AppleID的翻墙教程](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) 
