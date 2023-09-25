@@ -130,4 +130,8 @@ https://tipasvpn.com/faq
 
 ***
 
+Mac除了使用软件以外，也可以使用[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) 。
+
+***
+
 有问题或者有更好的Mac软件分享，都可以发邮件到海外邮箱进行反馈kebi2014@gmail.com
