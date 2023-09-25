@@ -4,6 +4,13 @@
 
 **1、windows系统的[v2rayN](https://github.com/2dust/v2rayN/releases/latest) 图文使用方法**
 
+windows v2rayN 6.23客户端 文件名称：v2rayN-With-Core.zip
+
+[下载地址1](https://d2.freessr2.xyz/v2rayN-With-Core.zip)
+[下载地址2](https://d.dtku35.xyz/v2rayN-With-Core.zip)
+[下载地址3](https://free.zhujicn2.net/v2rayN-With-Core.zip)
+[github下载](https://github.com/2dust/v2rayN/releases/latest) (下载带core的文件)
+
 第一步按照地址下载v2ray客户端，然后解压缩后打开应用：
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/PAC/ss/v2ray2.png)
@@ -21,21 +28,14 @@
 
 **2、Mac系统的图文使用方法**
 
-第一种，使用[v2rayX（第三方开发）](https://github.com/insisttech/v2rayX-copy/releases) 
+使用[v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases)
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/PAC/v2ray/mac1.jpg)
+Mac客户端 v2rayU 3.8.0客户端 文件名称：V2rayU-64.dmg
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/PAC/v2ray/mac2.jpg)
-
-![](https://fastly.jsdelivr.net/gh/Alvin9999/PAC/v2ray/mac3.jpg)
-
-![](https://fastly.jsdelivr.net/gh/Alvin9999/PAC/v2ray/mac4.jpg)
-
-填写完信息后点击ok进行保存，点击load un即可开始使用。模式选择pac就行，全局也可以（全局有时候会导致国内网络无法使用）
-
-更详细方法可参考：https://book.v2rayx.org/mac.html
-
-第二种，使用[v2rayU（第三方开发）](https://github.com/yanue/V2rayU/releases)
+[下载地址1](https://d2.freessr2.xyz/V2rayU-64.dmg)
+[下载地址2](https://d.dtku35.xyz/V2rayU-64.dmg)
+[下载地址3](https://free.zhujicn2.net/V2rayU-64.dmg)
+[github下载](https://github.com/yanue/V2rayU/releases)
 
 正常安装程序,点击应用程序中的 V2RayU 图标:勾选 pac 模式、点击服务器设置
 
@@ -48,7 +48,6 @@
 确定如图状态就是已经开启, 即可开始畅游墙外的世界
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/PAC/v2ray/v2rayu3.png)
-
 
 **3、iOS系统的图文使用方法**
 
