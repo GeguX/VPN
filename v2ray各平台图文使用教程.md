@@ -1,4 +1,4 @@
-**2022年2月7日更新。以下方法为账号信息逐个填入，现在客户端很多都支持URL直接导入vmess链接，复制黏贴即可。**
+**2023年9月25日更新。以下方法为账号信息逐个填入，现在客户端很多都支持URL直接导入vmess链接，复制黏贴即可。**
 
 [点我获取更多免费v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 
 
@@ -56,8 +56,12 @@ iOS：[没有美区AppleID的翻墙教程](https://github.com/Alvin9999/new-pac/
 
 **4、安卓系统的图文使用方法**
 
-v2ray vpn:[下载1](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk) 
-[下载2](http://d1.bdrive.tk/v2ray.vpn-universal-release.apk)  (内置v2ray账号)
+安卓v2rayNG 1.8.5客户端  文件名称：v2rayNG_1.8.5.apk
+
+[下载地址1](https://d2.freessr2.xyz/v2rayNG_1.8.5.apk)
+[下载地址2](https://d.dtku35.xyz/v2rayNG_1.8.5.apk)
+[下载地址3](https://free.zhujicn2.net/v2rayNG_1.8.5.apk)
+[github下载](https://github.com/2dust/v2rayNG/releases)
 
 ![](https://fastly.jsdelivr.net/gh/Alvin9999/PAC/v2ray/az1.png)
 
