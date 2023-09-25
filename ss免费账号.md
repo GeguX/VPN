@@ -156,6 +156,12 @@ Linux 客户端 文件名称：Shadowsocks-Qt5-x86_64-v3.0.1
 [下载地址3](https://free.zhujicn2.net/shadowsocksr-release.apk)
 [github下载](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
 
+安卓v2rayNG 1.8.5客户端  文件名称：v2rayNG_1.8.5.apk
+
+[下载地址1](https://d2.freessr2.xyz/v2rayNG_1.8.5.apk)
+[下载地址2](https://d.dtku35.xyz/v2rayNG_1.8.5.apk)
+[下载地址3](https://free.zhujicn2.net/v2rayNG_1.8.5.apk)
+[github下载](https://github.com/2dust/v2rayNG/releases)
 
 iOS：[没有美区AppleID的翻墙教程](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6) [iOS注册美区Apple ID教程](https://github.com/Alvin9999/new-pac/wiki/iOS%E6%B3%A8%E5%86%8C%E7%BE%8E%E5%8C%BAApple-ID%E6%95%99%E7%A8%8B) 
 
