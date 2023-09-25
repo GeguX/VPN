@@ -138,6 +138,13 @@ Windows SS 4.4.1客户端 文件名称：Shadowsocks-4.4.1.0.zip
 [下载地址3](https://free.zhujicn2.net/Shadowsocks-4.4.1.0.zip)
 [github下载](https://github.com/shadowsocks/shadowsocks-windows/releases) 
 
+windows v2rayN 6.23客户端 文件名称：v2rayN-With-Core.zip
+
+[下载地址1](https://d2.freessr2.xyz/v2rayN-With-Core.zip)
+[下载地址2](https://d.dtku35.xyz/v2rayN-With-Core.zip)
+[下载地址3](https://free.zhujicn2.net/v2rayN-With-Core.zip)
+[github下载](https://github.com/2dust/v2rayN/releases/latest) (下载带core的文件)
+
 Mac SSR客户端 文件名称：ShadowsocksX-NG-R8.dmg
 
 [下载地址1](https://d2.freessr2.xyz/ShadowsocksX-NG-R8.dmg)
