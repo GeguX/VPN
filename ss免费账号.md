@@ -63,7 +63,7 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 
 **SS节点：**
 
-使用了全新的2022-blake3-es-256-gcm加密方式,旧版ss客户端不支持。电脑端建议使用最新的v2rayN客户端,可以使用“ss链接”一键导入,如果手动填写账号,步骤:打开v2rayN客户端——点击左上角第一个“服务器”——选择“添加shadowsocks服务器”——依次填写“别名”（随便填）、地址、端口、密码、加密方式，传输协议填写tcp，伪装类型选择none，其它不填。
+使用了全新的2022-blake3-es-256-gcm加密方式,旧版ss客户端不支持。电脑端建议使用最新的v2rayN客户端,可以使用“ss链接”一键导入,如果手动填写账号,步骤:打开v2rayN客户端——点击左上角第一个“服务器”——选择“添加shadowsocks服务器”——依次填写“别名”（随便填）、地址、端口、密码、加密方式，传输协议填写tcp，伪装类型选择none，其它不填。如果还是想使用传统的ss节点,推荐[v2free机场](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA),2020年开始,已稳定运行3年。
 
 <table id="tablepress-1">
 <thead>
