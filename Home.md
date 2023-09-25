@@ -24,7 +24,7 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年9月21日：集合版clash.meta工具被封的厉害，建议换其它工具。**
+**北京时间2023年9月26日：更新谷歌高内核Chrome109集合版。**
 
 **北京时间2023年9月18日：更新Chrome117所有版本，Chrome109部分版本，火狐集合版和谷歌低内核集合版。**
 
@@ -39,7 +39,7 @@
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/dd9ae69f22fd0cc4c0f59f27d0b2d7c31d699deb) （2023年9月18日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/dd9ae69f22fd0cc4c0f59f27d0b2d7c31d699deb) （2023年9月26日更新）
 
 [谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88/05cf906abd2a1ae69c97b09ea8928ca5c137258e) （2023年9月18日更新）
 
