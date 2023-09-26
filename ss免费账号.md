@@ -22,7 +22,7 @@
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。无界21.32版[下载地址1](https://d2.freessr2.xyz/u2132.exe) [下载地址2](https://d.ssrfree4.xyz/u2132.exe) 自由门7.99版[下载地址1](https://d2.freessr2.xyz/fg799p.zip) [下载地址2](https://d.ssrfree4.xyz/fg799p.zip)**
 
-**北京时间2023年9月25日17点30分更新全新ss节点。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2023年9月26日9点00分更新ss节点。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://bku2.xyz/ss免费账号 
 
@@ -63,8 +63,6 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 
 **SS节点：**
 
-使用了全新的2022-blake3-aes-256-gcm加密方式，旧版ss客户端不支持。电脑端建议使用最新的[v2rayN](https://github.com/2dust/v2rayN/releases/latest)客户端，可以使用“ss链接”一键导入，如果手动填写账号，步骤：打开v2rayN客户端——点击左上角第一个“服务器”——选择“添加shadowsocks服务器”——依次填写“别名”（随便填）、地址、端口、密码、加密方式，传输协议填写tcp，伪装类型选择none，其它不填。安卓端使用最新的[v2rayNG](https://github.com/2dust/v2rayNG/releases) 。
-
 <table id="tablepress-1">
 <thead>
 <tr>
@@ -80,16 +78,16 @@ ssr://dDMuZnJlZWdyYWRlbHkueHl6OjIyMjIyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOlpHOXVaM1
 <tr>
 <td>洛杉矶2</td>
 <td>www.dongtaiwang4.com</td>
-<td>10088</td>
-<td>yWEEHT8PcK0/Waa1d9fk+ZLmJL2mzMLK/QB0u/yhdH8=</td>
-<td>2022-blake3-aes-256-gcm</td>
+<td>12345</td>
+<td>dongtaiwang.com</td>
+<td>aes-256-gcm</td>
 </tr>
 </tbody>
 </table>
 
 **SS链接：**
 
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206eVdFRUhUOFBjSzAvV2FhMWQ5ZmsrWkxtSkwybXpNTEsvUUIwdS95aGRIOD0=@www.dongtaiwang4.com:10088#%E7%BE%8E%E5%9B%BD
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQHd3dy5kb25ndGFpd2FuZzQuY29tOjEyMzQ1#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b6
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr账号-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
