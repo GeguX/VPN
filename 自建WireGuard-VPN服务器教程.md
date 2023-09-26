@@ -1,6 +1,4 @@
-**2023年6月15日更新。**
-
-**2023年5月14日更新安装脚本和安卓版下载地址。**
+**2023年9月26日更新。**
 
 ***
 
@@ -17,7 +15,7 @@
 
 第二步：一键搭建服务器
 
-第三步：客户端TunSafe配置账号
+第三步：客户端配置账号
 
 ***
 
@@ -210,9 +208,15 @@ sz /etc/wireguard/client.conf
 
 ***
 
-第三步：客户端TunSafe使用方法
+第三步：客户端使用方法
 
 PC端：
+
+电脑客户端有3种软件，分别是wireguard-windows、desktop-app和tunsafe，提醒一下，前两款软件还在维护更新，tunsafe据说没有维护了，用还是能用，教程是以tunsafe为例子，其它软件供参考。
+
+wireguard-windows下载及更新地址：https://github.com/WireGuard/wireguard-windows/tags
+
+desktop-app下载及更新地址：https://github.com/TunnlTo/desktop-app/releases
 
 TunSafe 官网下载：https://tunsafe.com/download 
 
