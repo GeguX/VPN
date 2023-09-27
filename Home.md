@@ -24,9 +24,11 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年9月26日：更新谷歌高内核Chrome109集合版。**
+**北京时间2023年9月28日：更新谷歌高内核集合版、谷歌低内核集合版、火狐集合版，推荐使用新版。**
 
-**北京时间2023年9月18日：更新Chrome117所有版本，Chrome109部分版本，火狐集合版和谷歌低内核集合版。**
+> 北京时间2023年9月26日：更新谷歌高内核Chrome109集合版。
+
+> 北京时间2023年9月18日：更新Chrome117所有版本，Chrome109部分版本，火狐集合版和谷歌低内核集合版。
 
 > 北京时间2023年9月13日：发布新软谷歌高内核Quick版。
 
@@ -39,11 +41,11 @@
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88/42b1b212f2581bf4694d8819f7ec73196a722348) （2023年9月26日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年9月28日更新）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88/05cf906abd2a1ae69c97b09ea8928ca5c137258e) （2023年9月18日更新）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年9月28日更新）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8/14c82cc04fc878560f20f0ede0bd6cc0f6c7e8c7)（2023年9月18日更新）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年9月28日更新）
 
 [不翻墙正常打开github网站方法](https://github.com/Alvin9999/new-pac/wiki/%E4%BF%AE%E6%94%B9hosts%E6%96%87%E4%BB%B6%E4%B8%8Agithub) （2022年6月7日发布）
 
