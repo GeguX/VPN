@@ -139,4 +139,4 @@ Mac除了使用软件以外，也可以使用[直翻通道](https://github.com/A
 
 ***
 
-有问题或者有更好的Mac软件分享，都可以发邮件到海外邮箱进行反馈kebi2014@gmail.com
+有问题或者有更好的Mac软件分享，都可以发邮件到海外邮箱进行反馈rebeccalane27@gmail.com
