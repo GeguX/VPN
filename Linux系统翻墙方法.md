@@ -107,4 +107,4 @@ sudo systemctl disable v2ray.service
 
 ***
 
-有问题或者有更好的Linux软件分享，都可以发邮件到海外邮箱进行反馈kebi2014@gmail.com
+有问题或者有更好的Linux软件分享，都可以发邮件到海外邮箱进行反馈rebeccalane27@gmail.com
