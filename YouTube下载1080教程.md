@@ -1,4 +1,4 @@
-**2023年1月2日更新。**
+**2023年10月7日更新。**
 
 原理是利用在线视频转换网站来解析YouTube视频地址，从而实现下载YouTube视频的目的。
 
@@ -6,15 +6,17 @@
 
 翻墙打开视频转换网站：
 
-网站1：https://youtube4kdownloader.com/
+网站1：https://youtube4kdownloader.com
 
-网站2：https://tools.liu.app/youtube
+网站2：https://y2b.455556.xyz （合并下载时选择“auto”）
 
-网站3：https://v.hi.sy
+网站3：https://tools.liu.app/youtube
 
-网站4：https://savieo.com/zh
+网站4：https://v.hi.sy
 
-网站5：https://yout.com
+网站5：https://savieo.com/zh
+
+网站6：https://yout.com
 
 ***
 
