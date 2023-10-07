@@ -16,6 +16,8 @@
 
 关于台湾的5大真相 [在线观看](https://www.youtube.com/watch?v=O2hbHbdYG2w&ab_channel=Leonard)
 
+广场备忘录（BBC News 中文） [在线观看](https://www.youtube.com/watch?v=ExqqdUXXdgA&ab_channel=BBCNews%E4%B8%AD%E6%96%87)
+
 第51届哥伦布国际电影电视节荣誉奖——《伪火》  [在线观看](http://cn.ntdtv.com/gb/2014/01/07/a24016.html) 
 
 《九评》历史真相系列纪录片[在线观看](https://www.tuidang.org/9ping/)
