@@ -59,9 +59,9 @@
 
 [Linux系统翻墙软件](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2020年11月1日增加Linux使用Wine运行Windows软件教程）
 
-[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2023年10月5日更新）
+[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2023年10月7日更新）
 
-[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2023年10月5日更新）
+[谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2023年10月7日更新）
 
 [平板电脑翻墙方法](https://github.com/Alvin9999/new-pac/wiki/%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2020年2月13日更新）
 
@@ -79,7 +79,7 @@
 
 [一键搭建科学上网工具ProxySU](https://github.com/Alvin9999/new-pac/wiki/%E4%B8%80%E9%94%AE%E6%90%AD%E5%BB%BA%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E5%B7%A5%E5%85%B7ProxySU) （2023年6月15日更新）
 
-[YouTube下载1080教程](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B) （2023年1月2日更新）
+[YouTube下载1080教程](https://github.com/Alvin9999/new-pac/wiki/YouTube%E4%B8%8B%E8%BD%BD1080%E6%95%99%E7%A8%8B) （2023年10月7日更新）
 
 ***
 
