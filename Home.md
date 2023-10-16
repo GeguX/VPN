@@ -18,7 +18,7 @@
 
 ***
 
-备用网址：https://bku7.xyz 
+备用网址：https://bku7.xyz  (建议保存)
 
 ***
 
