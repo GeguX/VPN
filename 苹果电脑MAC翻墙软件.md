@@ -133,9 +133,6 @@ https://tipasvpn.com/faq
 
 如果还有不清楚的地方，也可以自行搜素。当Mac可以用windows软件的时候，这样可选择的空间就很大。
 
-***
-
-Mac除了使用软件以外，也可以使用[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) 。
 
 ***
 
