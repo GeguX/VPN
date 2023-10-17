@@ -24,7 +24,9 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年10月16日：更新谷歌高内核Chrome118集合版，优化浏览器，解决部分翻墙工具打开Chrome118浏览器报错的提示。**
+**北京时间2023年10月18日：更新谷歌高内核、谷歌低内核、火狐所有版本，主要更新clash.meta、singbox、naiveproxy、hysteria2至最新版以及优化浏览器。**
+
+> 北京时间2023年10月16日：更新谷歌高内核Chrome118集合版，优化浏览器，解决部分翻墙工具打开Chrome118浏览器报错的提示。
 
 > 北京时间2023年10月13日：更新谷歌高内核Chrome118所有版本。
 
@@ -38,18 +40,16 @@
 
 > 北京时间2023年9月13日：发布新软谷歌高内核Quick版。
 
-> 北京时间2023年9月12日：由于封锁的原因，谷歌高内核MetaWJ版停止更新不再维护，建议下载集合版来使用。
-
 > ......
 
 
 ***
 
-[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年10月16日更新）
+[谷歌翻墙浏览器高内核版](https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88) （2023年10月18日更新）
 
-[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年10月12日更新）
+[谷歌翻墙浏览器低内核版](https://github.com/Alvin9999/new-pac/wiki/%E4%BD%8E%E5%86%85%E6%A0%B8%E7%89%88) （2023年10月18日更新）
 
-[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年10月12日更新）
+[火狐翻墙浏览器](https://github.com/Alvin9999/new-pac/wiki/%E7%81%AB%E7%8B%90%E7%BF%BB%E5%A2%99%E6%B5%8F%E8%A7%88%E5%99%A8)（2023年10月18日更新）
 
 [iOS翻墙软件](https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6)（2023年9月25日更新）
 
