@@ -28,6 +28,8 @@
 
 备用网址：https://bku7.xyz/Goflyway免费账号  (建议保存)
 
+备用网址：https://agithub.xyz/Alvin9999/new-pac/wiki/Goflyway免费账号 （github镜像）
+
 ***
 
 IP：208.115.233.98
