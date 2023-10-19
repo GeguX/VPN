@@ -28,6 +28,8 @@
 
 备用网址：https://bku7.xyz/ss免费账号  (建议保存)
 
+备用网址：https://agithub.xyz/Alvin9999/new-pac/wiki/ss免费账号 （github镜像）
+
 ***
 
 **SSR节点：**
