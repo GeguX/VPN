@@ -20,7 +20,7 @@
 
 备用网址：https://bku7.xyz  (建议保存)
 
-备用网址：https://agithub.xyz/Alvin9999/new-pac/wiki （github镜像）
+备用网址：https://githubfast/Alvin9999/new-pac/wiki （github镜像）
 
 ***
 
