@@ -6,11 +6,11 @@
 
 **一：通过github镜像网站访问github**
 
-github镜像站点1：https://githubfast.com
+github镜像站点1：https://bgithub.xyz
 
 github镜像站点2：https://agithub.xyz
 
-github镜像站点3：https://bgithub.xyz
+github镜像站点3：https://githubfast.com
 
 ***
 
