@@ -6,7 +6,7 @@
 
 **一：通过github镜像网站访问github**
 
-github镜像站点1：https://githubfast
+github镜像站点1：https://githubfast.com
 
 github镜像站点2：https://agithub.xyz
 
