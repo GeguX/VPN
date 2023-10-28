@@ -28,7 +28,7 @@
 
 备用网址：https://bku7.xyz/ss免费账号
 
-备用网址：https://githubfast.com/Alvin9999/new-pac/wiki/ss免费账号 （github镜像）
+备用网址：https://bgithub.xyz/Alvin9999/new-pac/wiki/ss免费账号 （github镜像）
 
 ***
 
