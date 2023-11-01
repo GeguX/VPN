@@ -26,6 +26,8 @@
 
 **近期重要更新提醒**：
 
+**北京时间2023年11月2日：谷歌高内核版页面被人恶意投诉到google，导致谷歌浏览器打开此页面会报错，影响浏览，需要大家帮忙申诉下，有时间可以做，没时间就算了。申诉方法：打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ ，在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88，Additional details那一栏填写原因或者不填，然后提交。**
+
 **北京时间2023年10月18日：更新谷歌高内核、谷歌低内核、火狐所有版本，主要更新clash.meta、singbox、naiveproxy、hysteria2、Quick至最新版以及优化浏览器。**
 
 > 北京时间2023年10月16日：更新谷歌高内核Chrome118集合版，优化浏览器，解决部分翻墙工具打开Chrome118浏览器报错的提示。
