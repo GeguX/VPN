@@ -1,5 +1,7 @@
 **2023年11月6日更新。**
 
+***
+
 **一：使用SSR账号翻墙**
 
 1、[Linux使用ss图形客户端Shadowosocks-QT5教程](https://shadowsockshelp.github.io/Shadowsocks/linux.html) (推荐)
@@ -110,7 +112,6 @@ sudo systemctl disable v2ray.service
 详细介绍及购买方法：https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA
 
 有问题也可以问在线客服。
-
 
 ***
 
