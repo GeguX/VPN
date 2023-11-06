@@ -1,6 +1,6 @@
-**2020年11月1日增加Linux使用Wine运行Windows软件教程。**
+**2023年11月6日更新。**
 
-### 第一种方法：使用SSR账号翻墙
+**一：使用SSR账号翻墙**
 
 1、[Linux使用ss图形客户端Shadowosocks-QT5教程](https://shadowsockshelp.github.io/Shadowsocks/linux.html) (推荐)
 
@@ -12,8 +12,9 @@
 
 [获取最新SS或SSR账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
  
+***
 
-### 第二种方法：使用v2ray账号
+**二：使用v2ray账号**
 
 **1、准备**
 
@@ -95,7 +96,25 @@ sudo systemctl disable v2ray.service
 
 [点我获取最新v2ray账号](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 
-### 第三种方法：Linux使用Wine运行Windows软件
+
+***
+
+**三：使用高速机场(付费)**
+
+[w1.v2free.cyou](https://w1.v2free.cyou/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，2020年开始已稳定运行3年。支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。任意套餐的高速节点都支持访问openAI ChatGPT。
+
+节点位置有台湾、香港、韩国、日本、美国、新加坡等，付费套餐节点包括v2ray节点和SS节点。截至2023年9月14日，节点共100个左右。
+
+试用套餐5元（5天）、月付套餐A 20元、月付套餐B 39元、月付套餐C 58元、年付套餐A 168元、年付套餐A2 218元等，[套餐购买](https://w1.v2free.cyou/auth/register?code=UsUP)
+
+详细介绍及购买方法：https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA
+
+有问题也可以问在线客服。
+
+
+***
+
+**四：Linux使用Wine运行Windows软件**
 
 图文教程可参考：
 
