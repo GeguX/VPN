@@ -1,4 +1,4 @@
-**2023年9月25日更新。**
+**2023年11月6日更新。**
 
 ***
 
@@ -59,7 +59,19 @@ Mac客户端 v2rayU 3.8.0客户端 文件名称：V2rayU-64.dmg
 
 使用方法参考[v2ray各平台图文使用教程](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
-### 第三种方法：Mac使用神盾VPN Mac版(付费)
+### 第三种方法：使用高速机场(付费)
+
+[w1.v2free.cyou](https://w1.v2free.cyou/auth/register?code=UsUP)是海外人士运营的高速翻墙服务，2020年开始已稳定运行3年。支持Windows/MAC/iOS/安卓/Linux/路由器等各平台高速翻墙：解锁大多数流媒体（Netflix、TVB、HKTV、ViuTV等），1080P高清视频、4K高清视频秒开，超低延迟。任意套餐的高速节点都支持访问openAI ChatGPT。
+
+节点位置有台湾、香港、韩国、日本、美国、新加坡等，付费套餐节点包括v2ray节点和SS节点。截至2023年9月14日，节点共100个左右。
+
+试用套餐5元（5天）、月付套餐A 20元、月付套餐B 39元、月付套餐C 58元、年付套餐A 168元、年付套餐A2 218元等，[套餐购买](https://w1.v2free.cyou/auth/register?code=UsUP)
+
+详细介绍及购买方法：https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA
+
+有问题也可以问在线客服。
+
+### 第四种方法：Mac使用神盾VPN Mac版(付费)
 
 免费试用，有限速。
 
