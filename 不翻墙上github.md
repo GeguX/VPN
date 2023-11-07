@@ -1,4 +1,4 @@
-**2023年11月6日更新。**
+**2023年11月8日更新。**
 
 **前言：如果你所在地区不翻墙的情况下无法打开github.com网站，那么可以通过github镜像网站访问github，或者通过修改电脑本地hosts文件来访问github。**
 
@@ -11,6 +11,8 @@ github镜像站点1：https://bgithub.xyz
 github镜像站点2：https://agithub.xyz
 
 github镜像站点3：https://freek1.xyz
+
+github镜像站点4：https://fgithubfast.com
 
 ***
 
