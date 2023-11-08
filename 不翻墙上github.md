@@ -12,8 +12,6 @@ github镜像站点2：https://agithub.xyz
 
 github镜像站点3：https://freek1.xyz
 
-github镜像站点4：https://fgithubfast.com
-
 ***
 
 **二：修改电脑本地hosts文件访问github**
