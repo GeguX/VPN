@@ -10,8 +10,6 @@ github镜像站点1：https://bgithub.xyz
 
 github镜像站点2：https://agithub.xyz
 
-github镜像站点3：https://freek1.xyz
-
 ***
 
 **二：修改电脑本地hosts文件访问github**
