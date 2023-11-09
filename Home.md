@@ -26,7 +26,7 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年11月8日：谷歌高内核版被人恶意投诉到google，导致谷歌浏览器打开此页面会报错，影响浏览，需要大家帮忙申诉下，有时间抽空做一下就可以了。申诉方法：打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ ，在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88  ，Additional details那一栏填写原因或者不填，然后提交。**
+**北京时间2023年11月9日：谷歌高内核版被人恶意投诉到google，导致谷歌浏览器打开此页面会报错，影响浏览，需要大家帮忙申诉下，有时间抽空做一下就可以了。申诉方法：打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ ，在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88  ，Additional details那一栏填写原因或者不填，然后提交。**
 
 **北京时间2023年11月2日：更新谷歌高内核所有版本和火狐集合版。根据反馈，目前的软件类型对国内不同地区的网络封锁适应性还不错，所以取消了freegate版和无界版的更新。至于谷歌低内核版本，考虑到如果是win7系统或以上，其实可以用谷歌高内核版，谷歌低内核感觉存在的意义不大，计划是未来不更新这个版本。但是，如果你是xp系统，可以用谷歌低内核版本，那么可以反馈一下，会考虑保留。**
 
@@ -64,7 +64,7 @@
 
 [Linux系统翻墙软件](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2023年11月6日更新）
 
-[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2023年11月7日更新）
+[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93) （2023年11月8日更新）
 
 [谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2023年11月4日更新）
 
