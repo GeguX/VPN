@@ -20,7 +20,7 @@
 
 第51届哥伦布国际电影电视节荣誉奖——《伪火》  [在线观看](http://cn.ntdtv.com/gb/2014/01/07/a24016.html) 
 
-《九评》历史真相系列纪录片[在线观看](https://www.tuidang.org/9ping/)
+《九评》历史真相系列纪录片 [在线观看](https://www.ntdtv.com/gb/2023/02/04/a103641795.html)
 
 ***
 
