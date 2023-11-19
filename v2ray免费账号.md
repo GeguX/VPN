@@ -26,7 +26,7 @@
 
 **电影推荐**：
 
-电影《再次成为神》 [预告片](https://www.ganjingworld.com/zh-CN/video/1g7272dsvi27AsvCHhqqW5hRB1lo1c) [正片](https://www.ganjingworld.com/zh-CN/live/1ga584cost16DTwPG6POfyKEz1ed1c)
+《再次成为神》 [预告片](https://www.ganjingworld.com/zh-CN/video/1g7272dsvi27AsvCHhqqW5hRB1lo1c) [正片](https://www.ganjingworld.com/zh-CN/live/1ga584cost16DTwPG6POfyKEz1ed1c)
 
 ***
 
