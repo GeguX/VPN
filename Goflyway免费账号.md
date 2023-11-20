@@ -20,6 +20,8 @@
 
 《九评》历史真相系列纪录片 [在线观看](https://www.ntdtv.com/gb/2023/02/04/a103641795.html)
 
+电影《再次成为神》  [在线观看](https://www.ganjingworld.com/zh-CN/live/1ga584cost16DTwPG6POfyKEz1ed1c) 
+
 ***
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。无界21.32版[下载地址1](https://d2.freessr2.xyz/u2132.exe) [下载地址2](https://d.dtku35.xyz/u2132.exe) 自由门7.99版[下载地址1](https://d2.freessr2.xyz/fg799p.zip) [下载地址2](https://d.dtku35.xyz/fg799p.zip)**
