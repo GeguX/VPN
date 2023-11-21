@@ -26,7 +26,7 @@
 
 **windows电脑系统的网友可以下载最新的自由门和无界，抗封锁性更强。无界21.32版[下载地址1](https://d2.freessr2.xyz/u2132.exe) [下载地址2](https://d.dtku35.xyz/u2132.exe) 自由门7.99版[下载地址1](https://d2.freessr2.xyz/fg799p.zip) [下载地址2](https://d.dtku35.xyz/fg799p.zip)**
 
-**北京时间2023年11月20日21点00分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
+**北京时间2023年11月21日11点00分更新。节点单用户限速500kb/s。如果想拥有自己的账号，可以考虑根据[教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)自己搭建节点，或者购买推荐的[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的账号信息，把浏览器缓存清理一下。**
 
 备用网址：https://bku8.xyz/ss免费账号
 
@@ -83,7 +83,7 @@ ssr://ZG9uZ3RhaXdhbmc1LmNvbToyMjY2NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaG
 <tr>
 <td>洛杉矶2</td>
 <td>www.dongtaiwang4.com</td>
-<td>34400</td>
+<td>35500</td>
 <td>dongtaiwang.com</td>
 <td>aes-256-gcm</td>
 </tr>
@@ -92,7 +92,7 @@ ssr://ZG9uZ3RhaXdhbmc1LmNvbToyMjY2NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaG
 
 **SS链接：**
 
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@www.dongtaiwang4.com:34400#www.dongtaiwang.com%20%E6%B4%9B%E6%9D%89%E7%9F%B6
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@www.dongtaiwang4.com:35500#www.dongtaiwang.com%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 
 **如果想搭建自己的ss/ssr节点，参考[自建ss/ssr服务器教程](https://github.com/Alvin9999/new-pac/wiki/%E8%87%AA%E5%BB%BAss%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B)。或者考虑[付费ss账号](https://github.com/Alvin9999/new-pac/wiki/V2free%E6%9C%BA%E5%9C%BA) 或搬瓦工付费ss/ssr账号-[Just My Socks](https://github.com/Alvin9999/new-pac/wiki/Just-My-Socks)。**
 
