@@ -22,7 +22,7 @@
 
 备用网址：https://bgithub.xyz/Alvin9999/new-pac/wiki （github镜像）
 
-备用网址：https://github.com/Alvin9999/new-pac/wiki （github镜像）
+备用网址：https://githubfast.com/Alvin9999/new-pac/wiki （github镜像）
 
 ***
 
