@@ -22,7 +22,7 @@
 
 电影《再次成为神》  [在线观看](https://www.ganjingworld.com/zh-CN/live/1ga584cost16DTwPG6POfyKEz1ed1c) 
 
-[探秘贵州藏字石之六字天书](https://www.youtube.com/watch?v=QhoFV0Z8YvU)
+探秘贵州藏字石之六字天书  [在线观看](https://www.youtube.com/watch?v=QhoFV0Z8YvU)
 
 ***
 
