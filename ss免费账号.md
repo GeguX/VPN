@@ -32,7 +32,7 @@
 
 备用网址：https://bku8.xyz/ss免费账号
 
-备用网址：https://bgithub.xyz/Alvin9999/new-pac/wiki/ss免费账号 （github镜像）
+备用网址：https://bgithub.xyz/Alvin9999/new-pac/wiki/ss免费账号 （国内访问github镜像）
 
 ***
 
