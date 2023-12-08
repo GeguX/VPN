@@ -26,7 +26,7 @@
 
 **近期重要更新提醒**：
 
-**北京时间2023年12月9日：更新谷歌高内核、火狐所有版本，主要更新clash.meta、Xray、singbox、naiveproxy、hysteria2、Quick至最新版以及优化浏览器。**
+**北京时间2023年12月9日：更新谷歌高内核Chrome120、Chrome109、火狐所有版本，主要更新clash.meta、Xray、singbox、naiveproxy、hysteria2、Quick至最新版以及优化浏览器。**
 
 **北京时间2023年12月8日：谷歌高内核版被人恶意投诉到google，导致谷歌浏览器打开此页面会报错，影响浏览，需要大家帮忙申诉下，有时间抽空做一下就可以了。申诉方法：打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ ，在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88  ，Additional details那一栏填写原因或者不填，然后提交。**
 
