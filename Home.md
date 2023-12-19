@@ -20,7 +20,7 @@
 
 备用网址：https://bku8.xyz
 
-备用网址：https://bgithub.xyz/Alvin9999/new-pac/wiki （国内访问github镜像）
+备用网址：https://dgithub.xyz/Alvin9999/new-pac/wiki （国内访问github镜像）
 
 ***
 
