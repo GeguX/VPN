@@ -61,7 +61,7 @@
 
 [Linux系统翻墙软件](https://github.com/Alvin9999/new-pac/wiki/Linux%E7%B3%BB%E7%BB%9F%E7%BF%BB%E5%A2%99%E6%96%B9%E6%B3%95) （2023年11月6日更新）
 
-[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93/cf1aa90ee48d2fc0a6237d990c1661d889036039) （2023年12月24日更新）
+[直翻通道](https://github.com/Alvin9999/new-pac/wiki/%E7%9B%B4%E7%BF%BB%E9%80%9A%E9%81%93/8da2c6c2cb4c76476ebb5d82b3d49405e4209a6a) （2023年12月27日更新）
 
 [谷歌镜像](https://github.com/Alvin9999/new-pac/wiki/%E8%B0%B7%E6%AD%8C%E9%95%9C%E5%83%8F) （2023年12月14日更新）
 
