@@ -26,11 +26,11 @@
 
 复制视频URL地址，粘贴到转换栏里
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo1.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo1.jpg)
 
 选择视频清晰度后点击下载
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo2.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/savieo2.jpg)
 
 ***
 
