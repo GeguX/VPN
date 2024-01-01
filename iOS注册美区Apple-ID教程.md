@@ -38,45 +38,45 @@ AppleID软件兑换码：如果下载付费软件，可以在淘宝或拼多多�
 
 1.使用浏览器访问 https://appleid.apple.com , 点击右上角创建您的 Apple ID链接，打开注册页面
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid1.png)
 
 2.填写姓名、出生日期、邮箱、密码等信息，国家或地区选择香港, 填写待验证的手机号码，如无香港手机号码，可以选择并填写中国大陆手机号码。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid2.png)
 
 3.根据图片提示，填入验证码，然后点击下方继续按钮进入下一步。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid3.png)
 
 4.查看电子邮箱获得邮箱验证码，并填入文本框中，点击继续。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid4.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid4.png)
 
 5.填入手机验证码到文本框中，点击继续。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid5.png)
 
 6.验证成功。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid6.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid6.png)
 
 步骤二(手机AppStore操作)：
 
 1.手机打开AppStore，使用新注册的AppleId登陆
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid13.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid13.PNG)
 
 2.输入手机验证码验证
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid14.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid14.PNG)
 
 3.在弹出来的弹框中，选择检查
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid15.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid15.PNG)
 
 4.在下一个页面中，打开同意条款与条件选项开关
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid16.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid16.PNG)
 
 5.注意在该页面中，如果没有付款的需求，千万不要选择付款方式，否则会无法消除选项，需要退出再登录才能消除。
 
@@ -84,11 +84,11 @@ AppleID软件兑换码：如果下载付费软件，可以在淘宝或拼多多�
 
 填完后点击右上角的下一页。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid17.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid17.PNG)
 
 6.注册完成。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid18.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hkid18.PNG)
 
 原文地址：https://oneclick.earth/help/appleid.html
 
