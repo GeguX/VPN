@@ -1,5 +1,5 @@
 <!-- wp:paragraph -->
-<p><strong>2023年7月30日更新。 </strong></p>
+<p><strong>2024年1月1日更新，解决图片显示问题。 </strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
