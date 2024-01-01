@@ -1,4 +1,4 @@
-**2023年11月6日更新。**
+**2024年1月1日更新，解决图片显示问题。**
 
 ***
 
@@ -26,19 +26,19 @@ STEP1，下载用于MAC OS X的SHADOWSOCKSX软件
 
 STEP2，打开下载的DMG文件，将程序图标拖到右边的APPLICATIONS，安装完成
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/MAC1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC1.png)
 
 STEP3，进入LAUNCHPAD，打开SHADOWSOCKSX,右上方出现程序图标，点击图标–“服务器”–“打开服务器设定”
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/MAC2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC2.png)
 
 STEP4，根据帐号信息，填写服务器地址（IP或者域名），端口，加密方式和密码，点确定
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/MAC3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC3.png)
 
 STEP5，选择刚刚配置好的服务器，点“打开SHADOWSOCKS”，DONE!
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/MAC4.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/MAC4.png)
 
 上面是使用SS客户端填写SS账号的方法，如果账号是SSR账号，使用SSR客户端时把协议和混淆填写好就可以了。
 
@@ -101,37 +101,37 @@ https://tipasvpn.com/faq
 
 第一步：如图点击“前往”，再点击"应用程序"。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac1.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac1.png)
 
 第二步：如图双击dmg文件打开，将Tipas拖拽到“应用程序”窗口里面。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac2.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac2.png)
 
 第三步：右键单击“应用程序”中的Tipas，选择“打开”，系统弹出“Tipas是从互联网下载的App。您確定要打开它吗？”。点击“打开”。
 
 第四步：如图点击“打开安全性偏好设置"。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac3.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac3.png)
 
 第五步：如图点击。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac4.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac4.png)
 
 第六步：如图点击。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac5.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac5.png)
 
 第七步：如图点击。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac6.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac6.png)
 
 第八步：如图点击。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac7.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac7.png)
 
 第九步：如图。
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac8.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/mac8.png)
 
 第十步：
 
