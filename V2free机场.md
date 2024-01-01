@@ -9,15 +9,15 @@
 
 试用套餐5元（5天）、月付套餐A 20元、月付套餐B 39元、月付套餐C 58元、年付套餐A 168元、年付套餐A2 218元等，[套餐购买](https://w1.v2free.cyou/auth/register?code=UsUP)
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free001.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free001.png)
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free002.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free002.png)
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free003.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free003.png)
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free004.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free004.png)
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free005.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/v2free005.png)
 
 ***
 
@@ -25,16 +25,16 @@
 
 **先充值，然后购买相应的套餐，获取节点信息，复制节点或者订阅节点地址即可。**
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/3.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/3.jpg)
 
 **打开商店——充值进行充值，充值方式：微信、支付宝、paypal和数字货币。**
 
-![](https://cfastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-003.PNG)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/v2ray-003.PNG)
 
 **购买相应的套餐后，打开“用户中心”，在“快速使用”这里可以复制订阅链接以及所有节点信息，也可以在节点列表获取单个节点信息。**
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/start.png)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/start.png)
 
-![](https://fastly.jsdelivr.net/gh/Alvin9999/pac2/v2fee/8.jpg)
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/v2fee/8.jpg)
 
 有任何问题都可以发工单进行咨询或者问在线客服。
