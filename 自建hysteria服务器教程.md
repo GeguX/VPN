@@ -293,7 +293,7 @@ hysteria 2的v2.2.3版本下载：https://github.com/apernet/hysteria/releases/d
 
 hysteria 2更新地址：https://github.com/apernet/hysteria/releases
 
-将下载后的hysteria-windows-386.exe文件和config.json文件放在同一目录，双击运行ysteria-windows-386.exe就可以启动了。需要注意的是，脚本默认的浏览器代理端口是5678，那么浏览器代理端口也要填写socks5 127.0.0.1 5678 , 当然你也可以在客户端配置信息进行修改这个5678端口。
+将下载后的hysteria-windows-386.exe文件和config.json文件放在同一目录，双击运行ysteria-windows-386.exe就可以启动了。需要注意的是，脚本搭建后默认的代理端口是5678，那么浏览器代理端口也要填写socks5 127.0.0.1 5678 , 当然你也可以在客户端配置信息文件修改5678端口。
 
 ***
 
