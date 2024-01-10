@@ -1,6 +1,4 @@
-**2024年1月1日更新，解决图片显示问题。**
-
-**2023年9月20日教程末尾增加hysteria 2一键脚本。**
+**2024年1月10日更新hysteria 2搭建图文教程。**
 
 ***
 
@@ -260,6 +258,18 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/flame1ce/hyster
 > CentOS系统安装curl命令：yum install -y wget
 
 > Debian/Ubuntu系统安装curl命令：apt-get install -y wget
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hy2-001.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hy2-002.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hy2-003.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hy2-004.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hy2-005.jpg)
+
+![](https://cdn.jsdelivr.net/gh/Alvin9999/pac2/softimag/hy2-006.jpg)
 
 hysteria官方客户端下载地址：https://github.com/apernet/hysteria/releases
 
