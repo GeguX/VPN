@@ -29,11 +29,11 @@
 
 **北京时间2024年1月24日：更新谷歌高内核Chrome120、Chrome109、火狐所有版本，主要更新clash.meta、Xray、singbox、naiveproxy、hysteria2、Quick工具以及优化浏览器。**
 
-**北京时间2024年1月14日：封锁加重，集合版已更新被封ip配置信息，按照使用说明运行ip更新即可同步。**
+> 北京时间2024年1月14日：封锁加重，集合版已更新被封ip配置信息，按照使用说明运行ip更新即可同步。
 
-**北京时间2023年12月9日：更新谷歌高内核Chrome120、Chrome109、火狐所有版本，主要更新clash.meta、Xray、singbox、naiveproxy、hysteria2、Quick至最新版以及优化浏览器。**
+> 北京时间2023年12月9日：更新谷歌高内核Chrome120、Chrome109、火狐所有版本，主要更新clash.meta、Xray、singbox、naiveproxy、hysteria2、Quick至最新版以及优化浏览器。
 
-**北京时间2023年12月8日：谷歌高内核版被人恶意投诉到google，导致谷歌浏览器打开此页面会报错，影响浏览，需要大家帮忙申诉下，有时间抽空做一下就可以了。申诉方法：打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ ，在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88  ，Additional details那一栏填写原因或者不填，然后提交。**
+> 北京时间2023年12月8日：谷歌高内核版被人恶意投诉到google，导致谷歌浏览器打开此页面会报错，影响浏览，需要大家帮忙申诉下，有时间抽空做一下就可以了。申诉方法：打开google申诉网址https://safebrowsing.google.com/safebrowsing/report_error/ ，在URL填写申诉网址https://github.com/Alvin9999/new-pac/wiki/%E9%AB%98%E5%86%85%E6%A0%B8%E7%89%88  ，Additional details那一栏填写原因或者不填，然后提交。
 
 > 北京时间2023年11月2日：更新谷歌高内核所有版本和火狐集合版。根据反馈，目前的软件类型对国内不同地区的网络封锁适应性还不错，所以取消了freegate版和无界版的更新。至于谷歌低内核版本，考虑到如果是win7系统或以上，其实可以用谷歌高内核版，谷歌低内核感觉存在的意义不大，计划是未来不更新这个版本。
 
