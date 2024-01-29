@@ -12,9 +12,9 @@
 
 网站3：https://v.hi.sy
 
-网站4：https://savieo.com/zh
+网站4：https://yout.com
 
-网站5：https://yout.com
+网站5：https://savieo.com/zh
 
 网站6：https://y2b.455556.xyz （合并下载时选择“auto”）
 
